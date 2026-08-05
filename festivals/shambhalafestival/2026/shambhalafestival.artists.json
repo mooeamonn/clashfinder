@@ -5,8 +5,8 @@
   "_meta": {
     "max_per_page": 1000,
     "page": 1,
-    "page_count": 643,
-    "total_count": 643
+    "page_count": 644,
+    "total_count": 644
   },
   "data": [
     {
@@ -1522,13 +1522,13 @@
           "track_id": "3P2xLyH60RfqYmeOBtY3t0"
         },
         {
-          "artist_name": "Skysia, dêtre, Orenda",
-          "duration": 191734,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027f394b0777537a28bfb863fb",
-          "preview_url": "https://p.scdn.co/mp3-preview/1a317e68ac54caccaa0309b5a8287cf4969f1da7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Orenda",
+          "duration": 267469,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d86d7461ccb68878142d0ba9",
+          "preview_url": "https://p.scdn.co/mp3-preview/4745598ffc8492eca213cb130a8cd617fade1b0d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Emerald Bay (Dêtre Remix)",
-          "track_id": "3ignw1mLLC8xWLVJAcVj8A"
+          "title": "Dhyana",
+          "track_id": "50zr9lT38tIKbgol91WnZL"
         },
         {
           "artist_name": "Orenda",
@@ -1986,15 +1986,6 @@
         },
         {
           "artist_name": "Villager",
-          "duration": 204444,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0275d2c20cc62c9bcfa4fa0e9d",
-          "preview_url": "https://p.scdn.co/mp3-preview/5f3088058fc6b1eef83b6c1f6986b42f56a4a7ad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Every Single Time",
-          "track_id": "1sFLi4UClnOiBfV02S2Phe"
-        },
-        {
-          "artist_name": "Villager",
           "duration": 318806,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027e71db8be7202eb8beddb4e2",
           "preview_url": "https://p.scdn.co/mp3-preview/9fc60d833db62ff9715646a16dcbe084c6533163?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -2019,6 +2010,15 @@
           "streaming_service": "spotify",
           "title": "Chlorophyll",
           "track_id": "2e7YHJyoVHM95Dc6OJCgU3"
+        },
+        {
+          "artist_name": "DJ ADHD, Villager",
+          "duration": 294545,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02eec3c5d3ab9e5ae0e840c232",
+          "preview_url": "https://p.scdn.co/mp3-preview/501766a9c971f6d3437cf0481b00fafb33015720?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Strike",
+          "track_id": "309yYJktQuHXtlL7UuIiDe"
         },
         {
           "artist_name": "Villager",
@@ -2186,13 +2186,13 @@
           "track_id": "3qLLNBpWO3XMmlpMc5bS0q"
         },
         {
-          "artist_name": "Taiki Nulight, Almek, RENNAN",
-          "duration": 150506,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0295818b8866f853457f9968cd",
-          "preview_url": "https://p.scdn.co/mp3-preview/3d00acc03ac7f1d5cc675f1466a73a805a8744f0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "NERO, Taiki Nulight, Emily Makis",
+          "duration": 170270,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a67e885147067e5e54cb37d7",
+          "preview_url": "https://p.scdn.co/mp3-preview/997bd736b5cb536a1dcea7ce622ae1a68355905b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Ruh - Taiki Nulight Afterhours Mix",
-          "track_id": "4okkgNWjn8cX3ZzDDsmvjE"
+          "title": "We're Not Alone",
+          "track_id": "6XmyL6AjHgssLxJEWUBocv"
         },
         {
           "artist_name": "Taiki Nulight",
@@ -2770,21 +2770,21 @@
         },
         {
           "artist_name": "Harry Romero, Brothers Macklovitch, Austin Ato",
-          "duration": 308415,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a2a026e1d20986c849d81778",
-          "preview_url": "https://p.scdn.co/mp3-preview/73764d88464b594442b0e6efeafab875ef66a6a3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "The Corner - Deep In Jersey Dub",
-          "track_id": "2HCo1dr5JuLXvMewDgks8Z"
-        },
-        {
-          "artist_name": "Harry Romero, Brothers Macklovitch, Austin Ato",
           "duration": 198682,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a2a026e1d20986c849d81778",
           "preview_url": "https://p.scdn.co/mp3-preview/3488d7b0ad9444669df9124baa0b72206a49456d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "The Corner - Piano Mix",
           "track_id": "3JZWBj6gAMmodB9zMqf0qh"
+        },
+        {
+          "artist_name": "Harry Romero, Brothers Macklovitch, Austin Ato",
+          "duration": 287827,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a2a026e1d20986c849d81778",
+          "preview_url": "https://p.scdn.co/mp3-preview/f7023953b153af3fb669433e115b574da1df742a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The Corner - Extended Piano Mix",
+          "track_id": "3QySIVr0ZiOW6bcVfCL1PL"
         },
         {
           "artist_name": "Brothers Macklovitch, DRAMA, A-Trak",
@@ -2990,13 +2990,13 @@
           "track_id": "4SmoEaWtIhPNekJdTKEEe1"
         },
         {
-          "artist_name": "SkiiTour",
-          "duration": 216875,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0297b91285e7aa24db3f0bc04f",
-          "preview_url": "https://p.scdn.co/mp3-preview/87182fb359d19f43f75559b7085b16d7062afc88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "SkiiTour, Ray Black",
+          "duration": 260000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026056bff1b3c904e440d04c43",
+          "preview_url": "https://p.scdn.co/mp3-preview/7574d27210e0026010efa89167364d69766de5e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Fade",
-          "track_id": "5nr7v3tnr4ZwhBg1BFjjTi"
+          "title": "The Rave Won't Leave Me Alone - Original Mix",
+          "track_id": "4Wr7SkLSeRXdMZpyjoBAQU"
         },
         {
           "artist_name": "SkiiTour",
@@ -3424,6 +3424,15 @@
           "track_id": "00GvqqIkMdHaxChyhZf9Nx"
         },
         {
+          "artist_name": "AFTER MIDNIGHT, Matroda, San Pacho",
+          "duration": 189090,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02822b6a72918351a67557ca63",
+          "preview_url": "https://p.scdn.co/mp3-preview/afb0fffb3f45730f047d31ff8b5258245cab31ce?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Slinging Dope",
+          "track_id": "05AjPD1RN8llBnQCEOlD92"
+        },
+        {
           "artist_name": "Matroda",
           "duration": 171428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e029e69592917f2f98be5cf6b6e",
@@ -3485,15 +3494,6 @@
           "streaming_service": "spotify",
           "title": "Gimme Some Keys",
           "track_id": "5lbFVZ3g63LLssXLKirfjA"
-        },
-        {
-          "artist_name": "Matroda",
-          "duration": 192727,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a327b2291e8822d5acf91a2f",
-          "preview_url": "https://p.scdn.co/mp3-preview/34c23f5d703295f88b0af0d08a028acb5b6e66f6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Can't Help Myself",
-          "track_id": "649WkG75AJOBLsD4wkVrTV"
         },
         {
           "artist_name": "Matroda",
@@ -3580,6 +3580,15 @@
           "track_id": "1LldihpfcYdxAnCigKijW2"
         },
         {
+          "artist_name": "Cloonee, Prospa, Tristan Henry",
+          "duration": 181411,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a3c886ee9b32417992f8839a",
+          "preview_url": "https://p.scdn.co/mp3-preview/e38c80317ff65a39e0377fd2879d0339a18c8b79?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Good Girl",
+          "track_id": "263Ecah3YA4hVZHxR2Ex9p"
+        },
+        {
           "artist_name": "Cloonee, Wade",
           "duration": 195952,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02815f7ff85ded2c77bb5145b8",
@@ -3623,15 +3632,6 @@
           "streaming_service": "spotify",
           "title": "Stephanie",
           "track_id": "3sh2q76qsc7yLkQNmHKfQf"
-        },
-        {
-          "artist_name": "Cloonee",
-          "duration": 161723,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02507f05c11b2ed61a0cf75569",
-          "preview_url": "https://p.scdn.co/mp3-preview/71323f86855700ea48d0623db389c6ede2444d70?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Fine Night",
-          "track_id": "5BoA4ehsprvSzDBuFOPgdA"
         },
         {
           "artist_name": "Cloonee, Jocelyn Enriquez",
@@ -4360,15 +4360,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Stund, Wes Please",
-          "duration": 239032,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0263f6d630f175c28bc3f754bc",
-          "preview_url": "https://p.scdn.co/mp3-preview/3e55de658ca671cd0203c7336c6e89d36f6a68aa?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Love Me Instead",
-          "track_id": "0EpUFYbC1ZkCxfSSk6BTFV"
-        },
-        {
           "artist_name": "Wes Please, Father Funk",
           "duration": 368708,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02d4b6868a191e51b289df6bb4",
@@ -4376,6 +4367,15 @@
           "streaming_service": "spotify",
           "title": "Hot Pants - Broken Future & Stund Remix",
           "track_id": "1eE6RgB7qubDRym4bFPG8J"
+        },
+        {
+          "artist_name": "Wes Please",
+          "duration": 250119,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a1d0450961a8e24d77838b47",
+          "preview_url": "https://p.scdn.co/mp3-preview/0cab1ad3f465274a88682308ad0fa2e15f2a3cf4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Here For The Party",
+          "track_id": "2o27M5QeX3uuGFL41x0Yyz"
         },
         {
           "artist_name": "Freddy J, Wes Please",
@@ -4843,6 +4843,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "Kaya Ko",
+          "duration": 200591,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0268d81051cf6172e95cae5eec",
+          "preview_url": "https://p.scdn.co/mp3-preview/bee706c45474900429b06904ec78f3e7d13b01fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Comin Down",
+          "track_id": "02oou1IvtgdMn1FIMjvZVx"
+        },
+        {
           "artist_name": "Lazy Syrup Orchestra, Kaya Ko, Abstrakt Sonance, Thomas Workshop",
           "duration": 184186,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024390fb66ee326e772773737a",
@@ -4868,15 +4877,6 @@
           "streaming_service": "spotify",
           "title": "Options - Remix",
           "track_id": "2ODioIEi5FnMDzqqeIKgu4"
-        },
-        {
-          "artist_name": "Kaya Ko",
-          "duration": 208217,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dcd586729d65e5eb5457dd80",
-          "preview_url": "https://p.scdn.co/mp3-preview/e811a0359188f14b06949b0ecb4382bc20338015?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Have It With You - Acoustic Demo Version",
-          "track_id": "3MSL9rdVaJq78HuNK2MP0V"
         },
         {
           "artist_name": "Kapok, Kaya Ko",
@@ -5053,15 +5053,6 @@
           "track_id": "4OQYhC9Fy1XQps5CxNVKDb"
         },
         {
-          "artist_name": "Mungo's Hi Fi, Eva Lazarus",
-          "duration": 186346,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0268dc8db881d111efc67ad6e0",
-          "preview_url": "https://p.scdn.co/mp3-preview/4a8d3cf220827db9d65dfb8ababaf5b9a6d639ff?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Live My Life",
-          "track_id": "5PeI2GPzXfUsdh9uHaErJx"
-        },
-        {
           "artist_name": "Lens, Eva Lazarus",
           "duration": 146915,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024a135902403f5234ae9efabd",
@@ -5069,6 +5060,15 @@
           "streaming_service": "spotify",
           "title": "Whole Place Lift",
           "track_id": "5qBkr45TSiCMMsVrwicIFk"
+        },
+        {
+          "artist_name": "Ed Solo, 4K, Eva Lazarus",
+          "duration": 164046,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a9c6f36b6434d3da60d9eefd",
+          "preview_url": "https://p.scdn.co/mp3-preview/f235e77a7a85d10dbd69f6d1f2c05d7b5460fb15?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Go All Night",
+          "track_id": "7Hh54MVHwirIAIHqsag5bz"
         },
         {
           "artist_name": "Crackazat, Eva Lazarus",
@@ -6063,8 +6063,8 @@
         {
           "artist_name": "Skrillex, Nitepunk",
           "duration": 204857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b80d55b7c08dc44800edf3d9",
-          "preview_url": "https://p.scdn.co/mp3-preview/777ca8b25815850043a9fafcd0133fb85fdef918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f4d40a252848a83d49e0ff1b",
+          "preview_url": "https://p.scdn.co/mp3-preview/1253f21977517d47db5727b1f3c52d6c3e8de3c9?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Soma",
           "track_id": "6MVLHfS52hKHzbcLtejCWC"
@@ -6139,6 +6139,15 @@
       ],
       "tracks": [
         {
+          "artist_name": "SIPPY",
+          "duration": 150857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0229d1e2878b391fc1b1205ac6",
+          "preview_url": "https://p.scdn.co/mp3-preview/dede2e7cecc11327f39506ed637a9af8998cc2ab?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Background Noise",
+          "track_id": "0WNKviRJ0x6B3mCT7E3XsY"
+        },
+        {
           "artist_name": "SIPPY, Bianca",
           "duration": 192000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027f3e722e8bc86af54fad1848",
@@ -6207,15 +6216,6 @@
           "streaming_service": "spotify",
           "title": "Candy Kid",
           "track_id": "6Q7mn0KjoCZGYeuWR8pAmZ"
-        },
-        {
-          "artist_name": "RIOT, SIPPY",
-          "duration": 162850,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02172db01dc0819c21da09dd38",
-          "preview_url": "https://p.scdn.co/mp3-preview/3689403daa207022e96d2aabbd25da7a1bcb5666?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Pump Up The Bassline",
-          "track_id": "6SmkZlyAt4CxGAMzqxYpYT"
         },
         {
           "artist_name": "SIPPY, NEOTEK",
@@ -6571,15 +6571,6 @@
           "track_id": "10JLvDywZi3agozIA9tCRy"
         },
         {
-          "artist_name": "Viperactive",
-          "duration": 179142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02059e4e02886988895dddafc5",
-          "preview_url": "https://p.scdn.co/mp3-preview/d577e4d4e1ef6a1115472c6c04a20bed9c51de10?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Dead To Me",
-          "track_id": "2Q4N4dG8jJegNGNgyToYaq"
-        },
-        {
           "artist_name": "Viperactive, Strobez, Vel Nine",
           "duration": 185142,
           "image_url": "https://i.scdn.co/image/ab67616d00001e020b484fdd102316d5531cdaee",
@@ -6641,6 +6632,14 @@
           "streaming_service": "spotify",
           "title": "Angels Crest",
           "track_id": "5OgGGCHu7nLEX31rSnqbOD"
+        },
+        {
+          "artist_name": "ILLENIUM, Viperactive, Elley Duhé",
+          "duration": 198620,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0221d0f058da508b38606f11f7",
+          "streaming_service": "spotify",
+          "title": "Feels Like You - Viperactive Remix",
+          "track_id": "6QwjQF1xPfbhOaI6G12B9N"
         }
       ]
     },
@@ -6916,13 +6915,13 @@
           "track_id": "1SF8eMkrZAk063qvwWxIrO"
         },
         {
-          "artist_name": "John Early, Astrafunk, Franco Sol",
-          "duration": 289585,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026eec9c1b5bbec045f9fee69b",
-          "preview_url": "https://p.scdn.co/mp3-preview/bd10a1c0585ef43c2387df1f0d23a70cde6bef75?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "John Early",
+          "duration": 213875,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e021535df0ba4e262b3a3504eda",
+          "preview_url": "https://p.scdn.co/mp3-preview/217cecaa190cfec7abcf03a6cffc3db11104c707?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "The Sauce",
-          "track_id": "2RxxSmUZrVuzfeZlT2Tg7U"
+          "title": "Caminos Heridos - Papaya Remix",
+          "track_id": "2XPsyxMZ4pl5ff3evnmhQ5"
         },
         {
           "artist_name": "John Early, The Gaff, Earl Pereira, Christian Kongawi",
@@ -7406,6 +7405,15 @@
         },
         {
           "artist_name": "Cheyenne Sapphire",
+          "duration": 160027,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287edbef8a1ed4a41b82ad307",
+          "preview_url": "https://p.scdn.co/mp3-preview/acab5258c814be39c01c97ee6c1b7669c5080c37?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Moon",
+          "track_id": "2sfBNeMhg42OqnKwSsG9nR"
+        },
+        {
+          "artist_name": "Cheyenne Sapphire",
           "duration": 173375,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02aa8882671d3d840910426c17",
           "preview_url": "https://p.scdn.co/mp3-preview/388f829de1a5ad25b4e773d35c39d44e9b28cec1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -7414,22 +7422,40 @@
           "track_id": "2zhYitqJRFP23HVFDgSIXt"
         },
         {
-          "artist_name": "Arula, Cheyenne Sapphire, Rafaëlle Cohen",
-          "duration": 257500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027fe57660c94489068be00074",
-          "preview_url": "https://p.scdn.co/mp3-preview/1366449a3c477a0de984672f761bc04d9e7a2fe7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Cheyenne Sapphire",
+          "duration": 242666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287edbef8a1ed4a41b82ad307",
+          "preview_url": "https://p.scdn.co/mp3-preview/59d41a1aa62ab8994cf177a4dee8dd1894c721c2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Sorceress Calling",
-          "track_id": "6wW8u9hdelcyKWXtHJ6nMC"
+          "title": "Savour",
+          "track_id": "4D7cnicvihuySeL3S6C5z4"
         },
         {
-          "artist_name": "Cheyenne Sapphire, Samaza Murava",
-          "duration": 261238,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f72277b0a522efba617a0c65",
-          "preview_url": "https://p.scdn.co/mp3-preview/3a00b8bd9458ab149e496bb1bd1bacdf707eb845?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Cheyenne Sapphire",
+          "duration": 116000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287edbef8a1ed4a41b82ad307",
+          "preview_url": "https://p.scdn.co/mp3-preview/6f72e09314443ea0e6d8531ed4deb1b6d6545733?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Lucid",
-          "track_id": "7ktPc4jx6Ca3hqPpN8BI0Y"
+          "title": "Imagine",
+          "track_id": "4uGEmCA5oGfBwmV8GavwG8"
+        },
+        {
+          "artist_name": "Cheyenne Sapphire",
+          "duration": 64027,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287edbef8a1ed4a41b82ad307",
+          "preview_url": "https://p.scdn.co/mp3-preview/6805cf52378437ef17936648d46fdfed1f452c55?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Plant Medicine",
+          "track_id": "6fSogVuZJTU6HavBNAJkgu"
+        },
+        {
+          "artist_name": "Cheyenne Sapphire",
+          "duration": 177503,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0287edbef8a1ed4a41b82ad307",
+          "preview_url": "https://p.scdn.co/mp3-preview/ffb46847f7b16c4e8039c0eadd3bd9125f468b07?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Lover Earth",
+          "track_id": "7le7MuocYlgphbqQCTQKiC"
         },
         {
           "artist_name": "Cheyenne Sapphire",
@@ -8181,15 +8207,6 @@
           "track_id": "29utx3aQRREuzabvXM5D1O"
         },
         {
-          "artist_name": "Amp Live, Zyme",
-          "duration": 152727,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a8c28a87f7c981e21367ecf2",
-          "preview_url": "https://p.scdn.co/mp3-preview/1648d61450e43c57dd47c89cab443286b8d500eb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Bass Top Heavy With A Dilla Flow",
-          "track_id": "2Pmy661IPRB7hjhrb8J7D3"
-        },
-        {
           "artist_name": "Amp Live, Anya, Prof",
           "duration": 232483,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e96ddab290dc50d01a1a871e",
@@ -8197,6 +8214,15 @@
           "streaming_service": "spotify",
           "title": "Penny Nickel Dime",
           "track_id": "30rmz7OJYaDnYrgxkzpsS1"
+        },
+        {
+          "artist_name": "Amp Live, Del The Funky Homosapien, Adult Karate",
+          "duration": 220890,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02220fb44e1c2d5214544da4c8",
+          "preview_url": "https://p.scdn.co/mp3-preview/5084bff6a6b714687529bdcfb59e1ceaca96cd19?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Help",
+          "track_id": "3ob3OSqOKk1QqcnIhMBieL"
         },
         {
           "artist_name": "Morillo, Amp Live",
@@ -8480,15 +8506,6 @@
           "track_id": "0GaPjCAMpj9RFyeGUh7Zjm"
         },
         {
-          "artist_name": "DEFIED, prophet.",
-          "duration": 150000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02dfebb73bc331b763b678a49e",
-          "preview_url": "https://p.scdn.co/mp3-preview/f0ba20296eff3876c3df061db068a9053114f1e6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Along for the Ride",
-          "track_id": "0HXIqVOepJZioeDCJJbkHf"
-        },
-        {
           "artist_name": "DEFIED, Ty-C",
           "duration": 192000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027efd44cb827e154697bdb69d",
@@ -8517,12 +8534,21 @@
         },
         {
           "artist_name": "DEFIED",
-          "duration": 184421,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d80c086b85010c8b45793815",
-          "preview_url": "https://p.scdn.co/mp3-preview/93967a9c1db00a717eee3f1267b4b8df869b8175?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 211826,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029dd5f09e1d69203b0eb47234",
+          "preview_url": "https://p.scdn.co/mp3-preview/7231c7ac952893e90289d2e3aaba7fb57b8fe6fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Beast",
-          "track_id": "49VJaEP9u46vAKoZRZapIE"
+          "title": "flipacard",
+          "track_id": "5aEAkqkaXj3DhTsBbYJJaH"
+        },
+        {
+          "artist_name": "DEFIED",
+          "duration": 173952,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029dd5f09e1d69203b0eb47234",
+          "preview_url": "https://p.scdn.co/mp3-preview/41a4fb14fffe916656470e141122ce00bd914c7d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "1TAKE",
+          "track_id": "6Bxc21NIkD6QjMA9imzUjq"
         },
         {
           "artist_name": "DEFIED",
@@ -8534,22 +8560,22 @@
           "track_id": "6MgKPDfRlb2BG3KEiZLuiX"
         },
         {
-          "artist_name": "DEFIED",
-          "duration": 169600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02375e9a2957b0ba609397f4cc",
-          "preview_url": "https://p.scdn.co/mp3-preview/3d12c242585607100fc4a221c6454a32ba733adb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "DEFIED, prophet.",
+          "duration": 225600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029dd5f09e1d69203b0eb47234",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef17121e060e03f638a507ae153f7c632a47502a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Walk the Line",
-          "track_id": "71xCgrGGzWczOfSaQeV13W"
+          "title": "better lean remix",
+          "track_id": "6vDMqh7Je96GoPE0no1ZyB"
         },
         {
-          "artist_name": "DEFIED",
-          "duration": 166874,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02237824c219cfd50fbecebb01",
-          "preview_url": "https://p.scdn.co/mp3-preview/c2c223b40c7137b33c733fdb72d24184c96a769a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "DEFIED, wabin",
+          "duration": 164571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029dd5f09e1d69203b0eb47234",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ff4111e110ae5bd965b10f2ac1cda07b6d52052?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Dryden Found A Guy",
-          "track_id": "761oADlHtjDjI7AK3AWgSZ"
+          "title": "hold on",
+          "track_id": "75k8Aoeyu5Up8ZVqora1jj"
         },
         {
           "artist_name": "DEFIED, Ty-C",
@@ -8696,15 +8722,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "EAZYBAKED",
-          "duration": 253457,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e026988806f976d76a4d887d17a",
-          "preview_url": "https://p.scdn.co/mp3-preview/f9d4100815ff34e8aaca131ed3033fb5c6dd3fd5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "WORM",
-          "track_id": "0yW1ogrfZ3k1v5gm0B1K8B"
-        },
-        {
           "artist_name": "EAZYBAKED, Of The Trees",
           "duration": 231111,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0296b972c64674b1d6c57c4423",
@@ -8712,6 +8729,14 @@
           "streaming_service": "spotify",
           "title": "Sapped",
           "track_id": "26ykYX8xQgECWm5ax7iVrX"
+        },
+        {
+          "artist_name": "Zeds Dead, EAZYBAKED",
+          "duration": 219427,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fb72615fa49c47069f36f71f",
+          "streaming_service": "spotify",
+          "title": "Rude Boy - EAZYBAKED Remix",
+          "track_id": "2VsXJnwpCgPjoj84rMwBdY"
         },
         {
           "artist_name": "EAZYBAKED, Daggz",
@@ -9565,15 +9590,6 @@
       "tracks": [
         {
           "artist_name": "SonReal",
-          "duration": 128789,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d26f94aa17717a2e18e0804a",
-          "preview_url": "https://p.scdn.co/mp3-preview/d2dc416f5111dc8e2973a0ef089f1708ba84d53c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Eavesdrop",
-          "track_id": "09PvPElyHykKuJkGTrXA9L"
-        },
-        {
-          "artist_name": "SonReal",
           "duration": 198520,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02388f022c5ab070b62f2aab42",
           "preview_url": "https://p.scdn.co/mp3-preview/88d1d27375ef75135f3941e9dc3028337ff0e927?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -9625,6 +9641,15 @@
           "streaming_service": "spotify",
           "title": "Peace Of Mind (feat Bryce Vine)",
           "track_id": "3uRHavNU4Vl2OrpjXxot7o"
+        },
+        {
+          "artist_name": "SonReal",
+          "duration": 201459,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bca3c30b10eb58bbbc6b632e",
+          "preview_url": "https://p.scdn.co/mp3-preview/4018dd9e6694f24a2177c48d38a378ab7c57e1ec?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dehydrated",
+          "track_id": "4ZZ5gcgmKbvedhn6Y6WAIz"
         },
         {
           "artist_name": "SonReal",
@@ -10290,15 +10315,6 @@
           "track_id": "02t0beZG4PCPabDZTcNMAf"
         },
         {
-          "artist_name": "Cerdin, Visev",
-          "duration": 251468,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0250fbf6a6f1eb5f4caef12449",
-          "preview_url": "https://p.scdn.co/mp3-preview/92c0f3fc00188fa20ae06a1c117fc4743527eb2a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Push - Visev Remix",
-          "track_id": "16cScXCF91WH631ert2qS0"
-        },
-        {
           "artist_name": "Squired, Cerdin",
           "duration": 204413,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026088b1b8b988778d5a658f6b",
@@ -10351,6 +10367,15 @@
           "streaming_service": "spotify",
           "title": "GASLEAK",
           "track_id": "5j2uk2UT56RWGbrLiAEldr"
+        },
+        {
+          "artist_name": "Maxchalant, Maiah Manser, Cerdin",
+          "duration": 193246,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028cb94b59a7fe7e174b8fd968",
+          "preview_url": "https://p.scdn.co/mp3-preview/85d6491d266c18daa545457c4aa085e68f1cf3af?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Forbidden Love - Cerdin Remix",
+          "track_id": "6qi7wJdyCoXolfpOdT9QxY"
         },
         {
           "artist_name": "Cerdin",
@@ -10822,6 +10847,15 @@
       "tracks": [
         {
           "artist_name": "Case of the Mondays",
+          "duration": 232440,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02425b69b229369dd741d3d012",
+          "preview_url": "https://p.scdn.co/mp3-preview/09963acc5e64a490cb4d3fb435bec2a2cc5cb6b1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Standing Alone",
+          "track_id": "1FH0pYayGQJSBY2VOoU9aP"
+        },
+        {
+          "artist_name": "Case of the Mondays",
           "duration": 230769,
           "image_url": "https://i.scdn.co/image/ab67616d00001e028af8bf0f1b35f276764c5a36",
           "preview_url": "https://p.scdn.co/mp3-preview/d6d165c88a184cf8531a14e681839954a5525117?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -10882,15 +10916,6 @@
           "streaming_service": "spotify",
           "title": "The Groove",
           "track_id": "595yJfLAZRQJ2SbTofdhFu"
-        },
-        {
-          "artist_name": "Case of the Mondays",
-          "duration": 201813,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d3c6d7c65f06a05f64f5f992",
-          "preview_url": "https://p.scdn.co/mp3-preview/edcb194498ddfcc7a77f4290e733702e33e6c082?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Like Me",
-          "track_id": "6nSF7VELaMJ06PUzn04bmQ"
         },
         {
           "artist_name": "Case of the Mondays",
@@ -11035,15 +11060,6 @@
         },
         {
           "artist_name": "Ben Fox",
-          "duration": 122020,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027b187ef2f1ddcc9c15619ca4",
-          "preview_url": "https://p.scdn.co/mp3-preview/c403a1995de45f50f1d4ff13a72b337a27211404?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Check This Out!",
-          "track_id": "4rmGSoHsc5m0kPYzSAG4J4"
-        },
-        {
-          "artist_name": "Ben Fox",
           "duration": 146564,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02ddbba34a8d545aa25c9d7017",
           "preview_url": "https://p.scdn.co/mp3-preview/0bce9a75777f9da7cb62f42c6cc1032cb90984dd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -11059,6 +11075,15 @@
           "streaming_service": "spotify",
           "title": "Those Vibes",
           "track_id": "6Dn2rDT3Rf16T1wIRQZsjg"
+        },
+        {
+          "artist_name": "Ben Fox",
+          "duration": 183206,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0258695a19cc55adc294c7d89d",
+          "preview_url": "https://p.scdn.co/mp3-preview/36bd38d74cfcb9fdbde2cd2bf5fc2d6ec00bb599?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Shy",
+          "track_id": "6Kb0nUmCWNcYuKwq90NYqs"
         },
         {
           "artist_name": "Ben Fox",
@@ -11397,6 +11422,15 @@
           "track_id": "19CS9LxlK0B0w2K22cc8uy"
         },
         {
+          "artist_name": "Nitepunk, Jon Casey",
+          "duration": 197603,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024468423c9e9c4dedcd95cd74",
+          "preview_url": "https://p.scdn.co/mp3-preview/0764ff4f0163f0d21217fe3e182d9d8aa74e9cd2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Set The Flow",
+          "track_id": "1GkvXqjgnH8iLLcRuhp9m7"
+        },
+        {
           "artist_name": "Jon Casey, TroyBoi",
           "duration": 145655,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022b58a963dd32167efdb0ec7b",
@@ -11440,15 +11474,6 @@
           "streaming_service": "spotify",
           "title": "Zurna",
           "track_id": "7CGB43FkEomSXAtnTNLC9n"
-        },
-        {
-          "artist_name": "Jon Casey",
-          "duration": 142588,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0203746d12ea302bf40f10f5b5",
-          "preview_url": "https://p.scdn.co/mp3-preview/72ac2797278834e1d948d0232362d31d4e5dc375?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "FAKE SMILE",
-          "track_id": "7iRJsA2udP3Kb3fsdR1VPu"
         }
       ]
     },
@@ -12802,15 +12827,6 @@
           "track_id": "041SdRu1u94RSAZ3kCN1ZW"
         },
         {
-          "artist_name": "Diemetic, Freddy J, Electrostep Network",
-          "duration": 157500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b7d6e5969a8d2d9732d1855d",
-          "preview_url": "https://p.scdn.co/mp3-preview/20426428a9b5d2a661c227e1af3d391064ca8f8d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "GET IT",
-          "track_id": "0eiubD67Lxyp2jgaVASXUs"
-        },
-        {
           "artist_name": "Freddy J",
           "duration": 150000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a9e2c62f5d21b3cc861a3cf0",
@@ -12854,6 +12870,15 @@
           "streaming_service": "spotify",
           "title": "Outta Your Mind",
           "track_id": "34AvVD6MAa7LLOCx1KJtUw"
+        },
+        {
+          "artist_name": "Freddy J, Wes Please",
+          "duration": 195299,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e53675db32cf0f3b7983f66c",
+          "preview_url": "https://p.scdn.co/mp3-preview/7e0fe9e0c8d83b7cbfa4c51b7363e43f2cb0a64b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Go Insane - Mixed Original Mix",
+          "track_id": "4XI31BdVgmflWj5kEj7Q3q"
         },
         {
           "artist_name": "Freddy J, Underdog",
@@ -13025,6 +13050,15 @@
           "track_id": "4O3ClmM5rvAvog5ISYu4o5"
         },
         {
+          "artist_name": "Shane Patrick Riley, Sivz",
+          "duration": 293442,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d22bad8b78ce26498ea6aadb",
+          "preview_url": "https://p.scdn.co/mp3-preview/1af0ef2a830f0cdbed2fa7cca3ccd3bfb24004c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "We Movin'",
+          "track_id": "4xQOYJvzinZlFBlM4MGlBY"
+        },
+        {
           "artist_name": "Sivz, ATTICUS",
           "duration": 195000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02309070562f033d977ea10c6b",
@@ -13032,15 +13066,6 @@
           "streaming_service": "spotify",
           "title": "Luv The Way",
           "track_id": "5ngVidGItbuZcp8DF4lD8g"
-        },
-        {
-          "artist_name": "Sivz",
-          "duration": 161749,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028421afe4e355e285ff0bc34e",
-          "preview_url": "https://p.scdn.co/mp3-preview/c56142b53b288384f7b5a400764833fa03285a45?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Lemonade",
-          "track_id": "6p8DMlYMms0Z6NY1gMb958"
         }
       ]
     },
@@ -13269,15 +13294,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Sam i, Kiinjo, Petite Meller",
-          "duration": 189590,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020bab98c361827678e31159d0",
-          "preview_url": "https://p.scdn.co/mp3-preview/805592db47b974eb03e3ebab10bc91a9d0973ab2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Love Got High (with Kiinjo & Petite Meller)",
-          "track_id": "0aXCYGrtJaYRglOnVJvWRk"
-        },
-        {
           "artist_name": "Kiinjo, The Patchouli Brothers, Planet B",
           "duration": 216092,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a620d2fc42f251c47a8994d5",
@@ -13296,6 +13312,24 @@
           "track_id": "1LNoEhEcbtBhdRxdJEHE0g"
         },
         {
+          "artist_name": "Kiinjo, Birdee",
+          "duration": 180339,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0220e59fde7cf747bdc9ac5398",
+          "preview_url": "https://p.scdn.co/mp3-preview/9f657643c553474d26ca09cc662491cf7c6a80da?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Desire",
+          "track_id": "3S0RrT3hsaQgjxi8Bhkkxh"
+        },
+        {
+          "artist_name": "Kiinjo",
+          "duration": 161818,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026286e59e5365c3f73ee6a222",
+          "preview_url": "https://p.scdn.co/mp3-preview/f09bd4424c5177a167e2cc52af82f267f3950b12?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Here We Go",
+          "track_id": "4QKNMglg1LnHYDbu9C8e7h"
+        },
+        {
           "artist_name": "Kiinjo, Pat Lok",
           "duration": 177401,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021bc551d0cc18e20b5f45e6e0",
@@ -13312,15 +13346,6 @@
           "streaming_service": "spotify",
           "title": "Give It to Me - Mmw Sampler 2026, Radio Edit",
           "track_id": "4uwtJPzqtQZXzdiF2GQcuC"
-        },
-        {
-          "artist_name": "Kiinjo, Oliver",
-          "duration": 214334,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02730618a92ebdea0a83119547",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d2ac986bb57598e195cdb7426bbd800123b3f49?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Right Here",
-          "track_id": "5DDOhhRfDDYZRs0WUFczsS"
         },
         {
           "artist_name": "Snakehips, Kiinjo",
@@ -14098,15 +14123,6 @@
           "track_id": "0WjvrhorMuIOWlTL5Vv1DQ"
         },
         {
-          "artist_name": "The Funk Hunters, Defunk, Akylla",
-          "duration": 276741,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213c68711e27ea30e00ee35d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/c1bbde8377cc1798bcc095ff4b1d8217e3c7cca6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Warn Ya",
-          "track_id": "0xkwBq51pz25O8uinUXIYh"
-        },
-        {
           "artist_name": "The Funk Hunters, Chali 2na, Defunk",
           "duration": 232782,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02983e618add6e9752e1b43741",
@@ -14114,6 +14130,15 @@
           "streaming_service": "spotify",
           "title": "Get Involved (feat. Defunk)",
           "track_id": "17sEbj2E6Bls2ld6vMCe59"
+        },
+        {
+          "artist_name": "Moontricks, The Funk Hunters, Scott Nice",
+          "duration": 174285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02710cc71666f406ddaea28625",
+          "preview_url": "https://p.scdn.co/mp3-preview/4396b2d2c0e4f7380b6ec8c0447c37e830d9df3e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Come Together",
+          "track_id": "1DejEZmUS1GvDpkpakNhV1"
         },
         {
           "artist_name": "Chali 2na, Cut Chemist, The Funk Hunters",
@@ -14271,15 +14296,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Joluca, Thomas Garcia",
-          "duration": 256178,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca6739c0ac2d6868e9c4671",
-          "preview_url": "https://p.scdn.co/mp3-preview/b14535fbfd4cc44fd60167488a9a3df021af16db?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Just a Dream - VIP",
-          "track_id": "0IfBkO9PxNTrnfzxIKJQXp"
-        },
-        {
           "artist_name": "Joluca",
           "duration": 170909,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027c57a9f5d7d07c9037d075a9",
@@ -14314,6 +14330,15 @@
           "streaming_service": "spotify",
           "title": "Suddenly",
           "track_id": "2iGwFzQ0XeJnqvt9p011W7"
+        },
+        {
+          "artist_name": "Joluca, Dances",
+          "duration": 320786,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b55250ced923d2aef4a78e07",
+          "preview_url": "https://p.scdn.co/mp3-preview/290647fe4bd1877dbb9bdcf24c6eb99072673740?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "What's The Move",
+          "track_id": "43gISuX4mgVXyNuwFBOzOM"
         },
         {
           "artist_name": "Joluca, Thomas Garcia",
@@ -14440,6 +14465,15 @@
           "track_id": "0BlU2gwg8AhtqYFweasXss"
         },
         {
+          "artist_name": "Control Room, Stund, Tasha Kett",
+          "duration": 180509,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02606b6ef4e4c77e99181e10fb",
+          "preview_url": "https://p.scdn.co/mp3-preview/7fd2d45fe9e4b74cb4043881f16cda6dc54743c1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Disco Tech Infection",
+          "track_id": "0HkTjwlJQoYHna7y7dAou2"
+        },
+        {
           "artist_name": "Control Room, AVE",
           "duration": 213953,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0277fe343891cfaa23f95f34be",
@@ -14492,15 +14526,6 @@
           "streaming_service": "spotify",
           "title": "Lose My Keys",
           "track_id": "5LiSJ1QQvvOzMPPaNCs9oA"
-        },
-        {
-          "artist_name": "Control Room, Dashi",
-          "duration": 170624,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a55e79beacc3c3cd3ee060de",
-          "preview_url": "https://p.scdn.co/mp3-preview/85ac8f0907c0f6120a91d38e26f6ba716113cd5f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "What's Your Motive",
-          "track_id": "6iFLvE09jn8p3CPRRH2rXU"
         },
         {
           "artist_name": "Control Room, AK RENNY",
@@ -14624,13 +14649,13 @@
           "track_id": "37PC5WF54TaFLNCdA3hg1Z"
         },
         {
-          "artist_name": "Smalltown DJs, Joanna Magik, Megan Hamilton, Techno Tupac",
-          "duration": 233493,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ca752e782b277d2dd2607733",
-          "preview_url": "https://p.scdn.co/mp3-preview/2312ad09e739b0434de07f0c940fabd8844463d2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Joanna Magik",
+          "duration": 200000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025d4565502443fa3a6278a132",
+          "preview_url": "https://p.scdn.co/mp3-preview/6728c95e0903bf71d98797db4b428471c048c4bc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Energy (feat. Techno Tupac) - Megan Hamilton Remix",
-          "track_id": "4ppv6i3k8yaEB3jc29VxIa"
+          "title": "Oh Bondage",
+          "track_id": "39hyU9LmLc1xoUqAEN9ukQ"
         },
         {
           "artist_name": "Joanna Magik, Smalltown DJs",
@@ -15977,15 +16002,6 @@
           "track_id": "15gZF0XsetcB7txhIHIdrl"
         },
         {
-          "artist_name": "Sir Spyro",
-          "duration": 200678,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027532bf6da3186628a1c6a082",
-          "preview_url": "https://p.scdn.co/mp3-preview/e20819bb3ff466ce11cce3f3a7f8bee5e9e6596b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Topper Top (feat Teddy Bruckshot Lady Chann & Killa P)",
-          "track_id": "28LaoRYd7v0EpChEzj7z3O"
-        },
-        {
           "artist_name": "Sir Spyro, Killa P",
           "duration": 167286,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0203dd76c1e86f1cef441d4321",
@@ -16019,6 +16035,15 @@
           "streaming_service": "spotify",
           "title": "Ups",
           "track_id": "6oroZnZ8ur0DSucZFezspo"
+        },
+        {
+          "artist_name": "Sir Spyro, Teddy Bruckshot, Lady Chann, Killa P",
+          "duration": 200678,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020fecfe861c16ad61fb69a90d",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f148471f61422c747be3e5f64e4df6bd491de37?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Topper Top",
+          "track_id": "6z0v5VPI6Nj8Jf0HvDvjdw"
         },
         {
           "artist_name": "Big Narstie, Sir Spyro",
@@ -17264,13 +17289,13 @@
           "track_id": "0iggRTpGCnTc2vhKXcIOaK"
         },
         {
-          "artist_name": "Dirtwire, Moontricks",
-          "duration": 225116,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02de7f87648048857f11daae32",
-          "preview_url": "https://p.scdn.co/mp3-preview/b609e33850f6c3ea00396c15e4992ed4e2147abb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Moontricks, The Funk Hunters, Scott Nice",
+          "duration": 174285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02710cc71666f406ddaea28625",
+          "preview_url": "https://p.scdn.co/mp3-preview/4396b2d2c0e4f7380b6ec8c0447c37e830d9df3e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Alone",
-          "track_id": "25WpzZOgMqd9ckiUbnY3GJ"
+          "title": "Come Together",
+          "track_id": "1DejEZmUS1GvDpkpakNhV1"
         },
         {
           "artist_name": "Moontricks",
@@ -17423,6 +17448,15 @@
           "track_id": "1DkVoUwdjtiugxJnfXUFfo"
         },
         {
+          "artist_name": "KR3TURE, Evan Fraser",
+          "duration": 221571,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02773ddc1d1a46e3057fb70942",
+          "preview_url": "https://p.scdn.co/mp3-preview/b67b37670affb924cbba3ccb31c8d3aa5eab1845?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "On The Brink",
+          "track_id": "1rBoU28gUgGqA0wKeUlQvh"
+        },
+        {
           "artist_name": "Morillo, KR3TURE",
           "duration": 228605,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b90f105ae88f032e4abc4556",
@@ -17482,7 +17516,7 @@
           "image_url": "https://i.scdn.co/image/ab67616d00001e023d60fac391d1bfd32a4dd611",
           "preview_url": "https://p.scdn.co/mp3-preview/5e27b785a3763f7506a55a22981111bc0c566d24?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "No Farewell (Remix)",
+          "title": "No Farewell - (Remix)",
           "track_id": "4pW9abl8Taje4FxaIVWl8j"
         },
         {
@@ -17493,15 +17527,6 @@
           "streaming_service": "spotify",
           "title": "I Wanna Be Like You",
           "track_id": "6BjEy0AE874gwWZoFPZpwx"
-        },
-        {
-          "artist_name": "KR3TURE, Momentology, MOMNT",
-          "duration": 192000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02320b26b8eb075fcd98ec2748",
-          "preview_url": "https://p.scdn.co/mp3-preview/4ecb92163dfc717d65319b62852727712f027a07?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Owl's Nest",
-          "track_id": "6z3e1Df9LFsyb96qS6ZG6g"
         }
       ]
     },
@@ -17574,6 +17599,24 @@
       "tracks": [
         {
           "artist_name": "Munchkin Kat, Everyman",
+          "duration": 222272,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/9dabac0f59f6ca35df7e65fdd9619aa86dd88c25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "NY BAGEL",
+          "track_id": "0Gt8Y7ITuiluvUumrwEgsL"
+        },
+        {
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 200816,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/897482cf9e5cd81e477efe9bd6180f43ea002f9d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Ain't Seen Nothin Yet",
+          "track_id": "1JGc3w3305g1JprepZqPLC"
+        },
+        {
+          "artist_name": "Munchkin Kat, Everyman",
           "duration": 223820,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
           "preview_url": "https://p.scdn.co/mp3-preview/9be1540878a7c1d2c06e8476de167aa13c21a0fe?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -17600,31 +17643,13 @@
           "track_id": "3tHviarjk6Q4TyU4RrtEWT"
         },
         {
-          "artist_name": "Neil To No-One, Everyman",
-          "duration": 224000,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028c277156ed2e7eb9f0ab4a8d",
-          "preview_url": "https://p.scdn.co/mp3-preview/70ee0935bf418c292728a05d4d45bc6520abe359?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Munchkin Kat, Everyman",
+          "duration": 217731,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02074439ed4a317332c43c1bfa",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccde9566f2683557184a20bc763cea5cd3f8f737?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Go Do Dat",
-          "track_id": "4PssFFutGAGdhSv7in9EF5"
-        },
-        {
-          "artist_name": "Everyman, Joe Con",
-          "duration": 210988,
-          "image_url": "https://i.scdn.co/image/af74b9e437822e5a2b55f48acb28c039b4413edd",
-          "preview_url": "https://p.scdn.co/mp3-preview/cff9e17e0b4a8258dd4e50c63080de0dfaef33c4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Bern It Down Or The People's Revolution",
-          "track_id": "4iq71SMV5sT4hjRBLC67TZ"
-        },
-        {
-          "artist_name": "Everyman, Beat Fatigue",
-          "duration": 278639,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a94637a7cd58ba470ad6bcfd",
-          "preview_url": "https://p.scdn.co/mp3-preview/b5aa1192f23eb86c0252d42eebfc8f11959e5a41?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "GET FREE",
-          "track_id": "5CanJLi7QzCGXetz6HS2Bf"
+          "title": "Taste the Flow",
+          "track_id": "5k1H111emRjmkRMV8IcPak"
         },
         {
           "artist_name": "Munchkin Kat, Everyman",
@@ -18365,15 +18390,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Joluca, Thomas Garcia",
-          "duration": 256178,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021ca6739c0ac2d6868e9c4671",
-          "preview_url": "https://p.scdn.co/mp3-preview/b14535fbfd4cc44fd60167488a9a3df021af16db?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Just a Dream - VIP",
-          "track_id": "0IfBkO9PxNTrnfzxIKJQXp"
-        },
-        {
           "artist_name": "Joluca",
           "duration": 170909,
           "image_url": "https://i.scdn.co/image/ab67616d00001e027c57a9f5d7d07c9037d075a9",
@@ -18408,6 +18424,15 @@
           "streaming_service": "spotify",
           "title": "Suddenly",
           "track_id": "2iGwFzQ0XeJnqvt9p011W7"
+        },
+        {
+          "artist_name": "Joluca, Dances",
+          "duration": 320786,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b55250ced923d2aef4a78e07",
+          "preview_url": "https://p.scdn.co/mp3-preview/290647fe4bd1877dbb9bdcf24c6eb99072673740?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "What's The Move",
+          "track_id": "43gISuX4mgVXyNuwFBOzOM"
         },
         {
           "artist_name": "Joluca, Thomas Garcia",
@@ -19346,15 +19371,6 @@
           "track_id": "29X1fVd8nkHPQyj9yaQ7Q3"
         },
         {
-          "artist_name": "Dr. Fresch, Chetta",
-          "duration": 142040,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027554e53cdfd85b1408fe030c",
-          "preview_url": "https://p.scdn.co/mp3-preview/2e89f2677a1d4f2321f3afb31479073641f2ecc0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Work (feat. Chetta)",
-          "track_id": "3ZSnbwWdIWoCey7hPNgGdZ"
-        },
-        {
           "artist_name": "Dr. Fresch, Mina Knock",
           "duration": 205000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023746b8a66571d44d2aeec3ee",
@@ -19371,6 +19387,15 @@
           "streaming_service": "spotify",
           "title": "Gangsta Gangsta",
           "track_id": "5w6rgrtYFhC6NkUknX1exC"
+        },
+        {
+          "artist_name": "Dr. Fresch, Capochino",
+          "duration": 168620,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e004e5be7c277f71e9811d50",
+          "preview_url": "https://p.scdn.co/mp3-preview/64af8d1fd8aea21db81aa04f5bf132d134114a9c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Frostbite",
+          "track_id": "66Eui7XZNesyQqYp4ilRci"
         },
         {
           "artist_name": "Dr. Fresch",
@@ -19647,13 +19672,13 @@
           "track_id": "0HkTjwlJQoYHna7y7dAou2"
         },
         {
-          "artist_name": "Stund",
-          "duration": 221223,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02489e26f2ae85714e0b0893ed",
-          "preview_url": "https://p.scdn.co/mp3-preview/3cf7279ae6bcf1601c6b3ef2d35956d7930f0dc5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Thomas Anthony, Stund",
+          "duration": 167619,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c439c12ee5c8e75a5773706a",
+          "preview_url": "https://p.scdn.co/mp3-preview/e1f225962dce845fc66947096e527fc0037f4ed7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Freak Machine",
-          "track_id": "0XymbFxLcMhG1oNuwczvMV"
+          "title": "Hood Go Crazy",
+          "track_id": "0Uszktpy7xhvUgVgfa7dIT"
         },
         {
           "artist_name": "Stund",
@@ -20016,12 +20041,12 @@
         },
         {
           "artist_name": "AHEE, Stylust",
-          "duration": 184759,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e4b0f08000f873b7beba561c",
-          "preview_url": "https://p.scdn.co/mp3-preview/ddd532613d3d1abaedc2b24ade3bcd0cd66cc2e8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 144000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e23e9ea58085ab19784baf3e",
+          "preview_url": "https://p.scdn.co/mp3-preview/dc1d31907f49224cddba48adc3cd53d85d768a58?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Heavyweights",
-          "track_id": "5RLo69t3nlQ5YwXsJTYH5i"
+          "title": "Smoke A Blunt",
+          "track_id": "5GxEzGQRFTLfviMBRDGNXC"
         },
         {
           "artist_name": "Ganja White Night, Stylust, PAV4N, Da Fuchaman",
@@ -20204,6 +20229,15 @@
         },
         {
           "artist_name": "TVBOO",
+          "duration": 236712,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f83e80427ecc7d412f6e6a31",
+          "preview_url": "https://p.scdn.co/mp3-preview/d8011bd3a13aafaae86b9940d3c3d2edd921fea1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Set Me Free",
+          "track_id": "1y4UAwsuPDBSv1456c6ytF"
+        },
+        {
+          "artist_name": "TVBOO",
           "duration": 208000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02e789f8f79ade2017f192a161",
           "preview_url": "https://p.scdn.co/mp3-preview/5cfd3e28428428b425c97881b7ce308e0e3f6380?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -20264,15 +20298,6 @@
           "streaming_service": "spotify",
           "title": "Girlfriend's Song",
           "track_id": "6MCPrU4iLDtETjYJ3LqlCA"
-        },
-        {
-          "artist_name": "TVBOO, Ruvlo",
-          "duration": 160797,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02bbd4c295ccdcae8de620f89c",
-          "preview_url": "https://p.scdn.co/mp3-preview/a0c6e8023bca8357767c732394e56101583c1471?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Break It Down",
-          "track_id": "7iAiKibt8pXIu22m9iXGCC"
         }
       ]
     },
@@ -20546,6 +20571,15 @@
           "track_id": "4SbbITIMdUlSMqQtnpcnar"
         },
         {
+          "artist_name": "NOTION, Grafix",
+          "duration": 201312,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02712302021fa8bc8edf5676e8",
+          "preview_url": "https://p.scdn.co/mp3-preview/a8aebc3742ccc7efd1bf07d75869b60803bb7e10?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Hooked - Grafix Remix",
+          "track_id": "5fRJSJYg8pCV2X0xUQUKJy"
+        },
+        {
           "artist_name": "Grafix, Reiki Ruawai",
           "duration": 220789,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0214d8fcc3413c04f431d238e5",
@@ -20580,15 +20614,6 @@
           "streaming_service": "spotify",
           "title": "Into Your Arms",
           "track_id": "7muVFoRdQraBDU1V8i8Wjv"
-        },
-        {
-          "artist_name": "Metrik, Grafix",
-          "duration": 278620,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02268d328cd7faa00a4c63afe8",
-          "preview_url": "https://p.scdn.co/mp3-preview/95e031994d2a27be3c5e9ff8ad13b8d337818bca?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Overdrive",
-          "track_id": "7y54xuXPzDD2K4NTvqr0TO"
         }
       ]
     },
@@ -20702,6 +20727,15 @@
           "track_id": "2YClnImtfH8LyQAoWxgg1t"
         },
         {
+          "artist_name": "Subsonic, Metrik",
+          "duration": 226306,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e903314db8d221c85eb37d9a",
+          "preview_url": "https://p.scdn.co/mp3-preview/64a75b338a8d2d5393f3c5054a980f44cb07a940?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dawnbreaker - Subsonic Remix",
+          "track_id": "35iZWCS3Td9I5V5utUVuBK"
+        },
+        {
           "artist_name": "Subsonic, Aleya Mae",
           "duration": 223448,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02dba318bd04d64e72b4552f6b",
@@ -20727,15 +20761,6 @@
           "streaming_service": "spotify",
           "title": "That Acid - Dimension & Subsonic Remix",
           "track_id": "6Fjzr6r9HONbr1ZHeukPVk"
-        },
-        {
-          "artist_name": "Subsonic",
-          "duration": 247750,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025d3d2b2a1937f7877c664f23",
-          "preview_url": "https://p.scdn.co/mp3-preview/a2dda467bee3c74d107ca145af390fde45640dad?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Need Me",
-          "track_id": "6tCdBWL2AKhu3UMWkx1hlw"
         },
         {
           "artist_name": "Subsonic, Stealth",
@@ -22003,6 +22028,15 @@
         },
         {
           "artist_name": "Verses GT, Nosaj Thing, Jacques Greene",
+          "duration": 239890,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d99dcd6752345014e0a348b0",
+          "preview_url": "https://p.scdn.co/mp3-preview/d62384655acf8bee11ca2dbee6c21147ac55b87f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "RB3",
+          "track_id": "6g80KZsDgDKUUinR5biFcC"
+        },
+        {
+          "artist_name": "Verses GT, Nosaj Thing, Jacques Greene",
           "duration": 240532,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02507e469b67b1ae301d0e1e82",
           "preview_url": "https://p.scdn.co/mp3-preview/8d502d05d6f463dc0b46db2043a27b4f1bad80a0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -22027,15 +22061,6 @@
           "streaming_service": "spotify",
           "title": "High & Choking - Jacques Greene Remix",
           "track_id": "6qmblg3jRsKu7N8yipxJvF"
-        },
-        {
-          "artist_name": "crushed, Jacques Greene",
-          "duration": 254076,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021a6482529525e95499468f76",
-          "preview_url": "https://p.scdn.co/mp3-preview/26c24270d7c7f77de526edc1302deb863f680f63?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "starburn - Jacques Greene Remix",
-          "track_id": "7ntvaIMw7lm7Fqc3cpOF06"
         }
       ]
     },
@@ -22144,21 +22169,21 @@
         },
         {
           "artist_name": "Cameo Blush",
-          "duration": 284826,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02515404a37c555c153c9f6a67",
-          "preview_url": "https://p.scdn.co/mp3-preview/044e0ce4d061fee1f9ef14196576846092153ee4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Prophet Paradise",
-          "track_id": "5XleOnP2IXN5waz0BNXKua"
-        },
-        {
-          "artist_name": "Cameo Blush",
           "duration": 168683,
           "image_url": "https://i.scdn.co/image/ab67616d00001e025d9a8e39368b0d58f2ae871c",
           "preview_url": "https://p.scdn.co/mp3-preview/548756a7f8940404b6b80ddb9eccc828df54d23d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Whatever Happens",
           "track_id": "5cEHj7YuzVAk7ecaVp4xzk"
+        },
+        {
+          "artist_name": "Cameo Blush",
+          "duration": 313497,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0226f92e325d1c8902a08ce078",
+          "preview_url": "https://p.scdn.co/mp3-preview/42ea4b414bb18670bdd907c6a316b8d35c354b25?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "In Cadence",
+          "track_id": "5y8CNcQikwwwHD6mGaQVmF"
         },
         {
           "artist_name": "Megra, Rose Gray, Cameo Blush",
@@ -22285,12 +22310,12 @@
         },
         {
           "artist_name": "Player Dave",
-          "duration": 279235,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02359193b827bfdfdaf472eeb7",
-          "preview_url": "https://p.scdn.co/mp3-preview/caf8e2b11a828d54c547bd670a2bacb6b5680a38?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 231516,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a36274cb1250739434a059d8",
+          "preview_url": "https://p.scdn.co/mp3-preview/30e261c7e95c50d84f8a3705f994f657f7bb20b0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "freeze",
-          "track_id": "3S3j23RuEbUrZVMV3Slv9q"
+          "title": "Confetti",
+          "track_id": "2OOlyBjYTkSDOsZ8t0dawT"
         },
         {
           "artist_name": "sumthin sumthin, Player Dave",
@@ -22311,15 +22336,6 @@
           "track_id": "5XL1muzUEbM1BvRvmIdtro"
         },
         {
-          "artist_name": "Player Dave",
-          "duration": 231516,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e157f1f4b3e3ec36a66d30bc",
-          "preview_url": "https://p.scdn.co/mp3-preview/98aebdfc9ffae1e23381f3e60d5db49d6c306b2b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Confetti",
-          "track_id": "6BEF6HOcEtoXfDhVORyCwn"
-        },
-        {
           "artist_name": "Player Dave, Brakebill",
           "duration": 163050,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026618a41db6ca7d7c6ce96fee",
@@ -22336,6 +22352,15 @@
           "streaming_service": "spotify",
           "title": "Acadia",
           "track_id": "7a1srdNMTrmVM0z5aN0BcU"
+        },
+        {
+          "artist_name": "Player Dave, sumthin sumthin",
+          "duration": 222581,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026618a41db6ca7d7c6ce96fee",
+          "preview_url": "https://p.scdn.co/mp3-preview/871f02a380ae1e414bc0ad5e7d3b68841303f405?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Fracture",
+          "track_id": "7kalqxHYd1OHAaMjfAZAeP"
         },
         {
           "artist_name": "Player Dave, FLY",
@@ -22882,12 +22907,21 @@
         },
         {
           "artist_name": "Atebaki",
-          "duration": 195245,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021a0790d13ded5e3e8f74bedb",
-          "preview_url": "https://p.scdn.co/mp3-preview/339b29e2a8f0b35c6bff6043f7ea660ba11467bd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 195450,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0223759bd9844a175b89d7fe0e",
+          "preview_url": "https://p.scdn.co/mp3-preview/956454675279b913783c1dad7a0292dfe1787227?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Eclipse Apocalypse",
-          "track_id": "0gjCeG7raz3oKxQVJsqeNH"
+          "title": "Black Turtle",
+          "track_id": "0Vpyei8OBDB30WJzoFkkda"
+        },
+        {
+          "artist_name": "Atebaki",
+          "duration": 335200,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02fdb3a0ba6d9018e0b5b8e0ee",
+          "preview_url": "https://p.scdn.co/mp3-preview/7670f20753f6c2584d10b9cf9d053c09a55b4b6b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Spirit Box",
+          "track_id": "0nGFLb9KIKeExEEuqjWJR3"
         },
         {
           "artist_name": "Atebaki, Wraz.",
@@ -22933,15 +22967,6 @@
           "streaming_service": "spotify",
           "title": "Sink With Me",
           "track_id": "3EekMTyYc3EhO4CmS6KGYp"
-        },
-        {
-          "artist_name": "Atebaki",
-          "duration": 184062,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0223759bd9844a175b89d7fe0e",
-          "preview_url": "https://p.scdn.co/mp3-preview/a5c1c9e6c83539c8e9b4a965f0fe669315699230?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Smug Smirk",
-          "track_id": "3G0orErwKgQEggr5DZoJQx"
         },
         {
           "artist_name": "Atebaki",
@@ -23348,21 +23373,21 @@
       "tracks": [
         {
           "artist_name": "Kyber",
-          "duration": 251825,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02223bc116b19347a2bf6cb110",
-          "preview_url": "https://p.scdn.co/mp3-preview/d08ac9b1671ac30737fc2cf651f48c3862982c07?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 280024,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024fb27f4e84b7f91445d59fe8",
+          "preview_url": "https://p.scdn.co/mp3-preview/d639ae7e01c545bf1f221eadc2447914eeb5346a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Focus",
-          "track_id": "0RuvgI3vXKpXxthy57ZUwX"
+          "title": "Illusion",
+          "track_id": "0QEonGZgLsZfy6klqsu7XZ"
         },
         {
-          "artist_name": "BURNINGBUSH, Kyber",
-          "duration": 317142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02b76f57e7a7c71dbdc618adcf",
-          "preview_url": "https://p.scdn.co/mp3-preview/7decd5d339c07110d3446a63a8cbe5cf178df2e6?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Kyber, Chunga",
+          "duration": 274285,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0278c353e7418e918430090db8",
+          "preview_url": "https://p.scdn.co/mp3-preview/dad8a98f2d7cd11632e69692f93e6a7be4b1fd88?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "One",
-          "track_id": "179w8bhMh9YBJ2PoE7wocF"
+          "title": "Damager",
+          "track_id": "0pPyn2jTt0anVRQt0zt9QY"
         },
         {
           "artist_name": "Kyber",
@@ -23401,6 +23426,15 @@
           "track_id": "3CzXPFZSM1FVONUNSZauSC"
         },
         {
+          "artist_name": "Kyber",
+          "duration": 279664,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024fb27f4e84b7f91445d59fe8",
+          "preview_url": "https://p.scdn.co/mp3-preview/49e41b12de3bb4cdddf3bf48397ba4bb3ef450a0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Flux",
+          "track_id": "3jnrC19VTjWkhKy5GlSNqC"
+        },
+        {
           "artist_name": "SEEK, Wolf'd, Kyber",
           "duration": 252000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0284b82299faa8d171c7aaed5d",
@@ -23426,15 +23460,6 @@
           "streaming_service": "spotify",
           "title": "Relentless",
           "track_id": "76aouxCPs3rx3Yj5UJ4Sf7"
-        },
-        {
-          "artist_name": "Kyber",
-          "duration": 226727,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e029baff00c7a689e4cd5ce11dd",
-          "preview_url": "https://p.scdn.co/mp3-preview/f9a85c4e1a9cc899f730cfdbe1a2ad644289f37e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Deadeye",
-          "track_id": "7yhZUYZnGdAMdAsR3GBz0E"
         }
       ]
     },
@@ -23570,21 +23595,21 @@
         },
         {
           "artist_name": "Lumasi",
+          "duration": 184193,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027f78b202d243c9bd237c9edf",
+          "preview_url": "https://p.scdn.co/mp3-preview/aac90bbaca985493581f403d4ea62face389f429?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Gurgly Gulp",
+          "track_id": "44PFZDaszM0wxqnZx2jB7v"
+        },
+        {
+          "artist_name": "Lumasi",
           "duration": 195428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02bf94178104b0049987b7dbf4",
           "preview_url": "https://p.scdn.co/mp3-preview/2dd71c0a62a0ed901175c7cf75eb94de4fd2ef7a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Dreamlike",
           "track_id": "4onFSJqg3PHfeZ1IqaX5wT"
-        },
-        {
-          "artist_name": "Lumasi",
-          "duration": 200863,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c93b5cc1122c0de9c9c261c6",
-          "preview_url": "https://p.scdn.co/mp3-preview/b71a73cc822cfd77800b2a64831f1d01f952c682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Human Be-In",
-          "track_id": "78mhDfCgspVVdRgjPRkwMQ"
         },
         {
           "artist_name": "Lumasi",
@@ -23838,13 +23863,13 @@
           "track_id": "0Qm14E0Scc9hpGPwhowHEP"
         },
         {
-          "artist_name": "Liquid Stranger, AHEE",
-          "duration": 198400,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a25e711c547a5020c7a25744",
-          "preview_url": "https://p.scdn.co/mp3-preview/acea0e04fad7e23ed970a85592bec1b1a393806b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Ganja White Night, Liquid Stranger",
+          "duration": 264457,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a9d6c33fd626b4009109d3b0",
+          "preview_url": "https://p.scdn.co/mp3-preview/0ee7e3fb4f77e39d8da75c291178f35898978c0d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Superstar",
-          "track_id": "0cqQd7NMikBCdMOXCQeIa1"
+          "title": "Lost In The Sauce",
+          "track_id": "0x5Y3R7CoTgzlYivoWWIol"
         },
         {
           "artist_name": "Liquid Stranger, Dr. Fresch, Bok Nero",
@@ -24046,6 +24071,15 @@
           "track_id": "50LgA55Oq94rxOSbPzMnwD"
         },
         {
+          "artist_name": "Jkyl & Hyde",
+          "duration": 185142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02629dba94c0c29514c5c09a2a",
+          "preview_url": "https://p.scdn.co/mp3-preview/aa2bad5c3ac6c25557b23e1679127ab6d957b2a7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Tell Me Your Lies",
+          "track_id": "5HBOoRnKPPNn3NhKfcRxBf"
+        },
+        {
           "artist_name": "Jkyl & Hyde, D38",
           "duration": 207428,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02987f5e31fd057ff4aa3f57fa",
@@ -24071,15 +24105,6 @@
           "streaming_service": "spotify",
           "title": "Runaway",
           "track_id": "6cl01mVeSioV2jTHRcGe0l"
-        },
-        {
-          "artist_name": "LAXX, Jkyl & Hyde",
-          "duration": 212571,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0213d38f5cb8e0f8d2409adb2f",
-          "preview_url": "https://p.scdn.co/mp3-preview/1359f79d00de865e84039d44ffd9b02d131b65e0?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Step One - Jkyl & Hyde Remix",
-          "track_id": "7t6yGxIk2qcAJzpUK5DjP1"
         }
       ]
     },
@@ -24226,15 +24251,6 @@
           "track_id": "13dPY7i7rhpn5HAGUuJ9Kv"
         },
         {
-          "artist_name": "Tone Ranger",
-          "duration": 91828,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02de6607d1915a6d103ebaddea",
-          "preview_url": "https://p.scdn.co/mp3-preview/b5cb02005fca2ff26d55298eb1dd9ae105e07a1f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Morning Star",
-          "track_id": "1yQiVyT2YSsl7h1EIFg5fE"
-        },
-        {
           "artist_name": "Tone Ranger, GARZA",
           "duration": 248000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02a5c1e912f8b778993cad814a",
@@ -24242,6 +24258,15 @@
           "streaming_service": "spotify",
           "title": "Mágico (G's Dust Up)",
           "track_id": "2h2IYhndsjAm1JRbmbINNc"
+        },
+        {
+          "artist_name": "Tone Ranger",
+          "duration": 236949,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f61ff3b071a755dd3f0420b0",
+          "preview_url": "https://p.scdn.co/mp3-preview/3901d27d112f92a45fd9ebc9caadc9da5ee037af?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Drive",
+          "track_id": "2qnXpPT0St2mjlddohASzu"
         },
         {
           "artist_name": "Tone Ranger",
@@ -24984,15 +25009,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "The Gaff",
-          "duration": 169291,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fd2a666e2f5650cc0200620c",
-          "preview_url": "https://p.scdn.co/mp3-preview/75e98ce2b7b5561e69d313f978f68969535b7416?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Do That Thing",
-          "track_id": "01k1DGVdlNM7earszsx4Z6"
-        },
-        {
           "artist_name": "MVPZ, Amp Live, The Gaff, Johanna Phraze",
           "duration": 147984,
           "image_url": "https://i.scdn.co/image/ab67616d00001e026db772e7695c83f4352ab0c5",
@@ -25047,6 +25063,15 @@
           "track_id": "4I2stYrYrA2NdgBJH0bqDi"
         },
         {
+          "artist_name": "MVPZ, Prayer Handz, The Gaff, Amp Live",
+          "duration": 184380,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02e1c54f8d20eed0619bd14314",
+          "preview_url": "https://p.scdn.co/mp3-preview/c168855fe07dfcb7e6b96e35b853e3c686b4ff63?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Kick Dat",
+          "track_id": "4ZAeDvGmmgp18gfeIS6nrm"
+        },
+        {
           "artist_name": "MVPZ, The Gaff, Amp Live",
           "duration": 192000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0214872da0a12250b7f414e39c",
@@ -25076,164 +25101,8 @@
       ]
     },
     {
-      "allow_favoriting": true,
-      "body": "Starjunk 95 is centered around a fictional, anime-inspired crew of ragtag misfits that join forces to pilot an intergalactic radio station. Think Cowboy Bebop meets The Gorillaz & Daft Punk. Each crew member represents a different sound and style of music, and together they transmit the newest sounds of today drenched with vintage nostalgia of yesterday.<br />\nEach song showcases a dynamic mix of colorful, genre-bending music and a playful pallette of rapping, pop vocals, turntable scratching, & groovy basslines. Starjunk 95 has crafted a unique & recognizable sound that is resonating deeply with fans across the world (and galaxy) Every music release coincides with a chapter of the story - painting a snapshot for listeners into the universe that has been created around Starjunk 95.",
-      "category": "regular",
-      "external_id": "1925999",
-      "hide_image_on_detail": "never",
-      "hide_image_on_overview": "never",
-      "id": 2103576,
-      "image": {
-        "-1": "",
-        "100": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637863_performance_100.jpeg",
-        "120": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637863_performance_120.jpeg",
-        "250": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637863_performance_250.jpeg",
-        "500": "https://media.appmiral.com/prod/performance/0057/38/thumb_5637863_performance_500.jpeg"
-      },
-      "links": {
-        "facebook_page_id": "starjunk95",
-        "instagram_user": "starjunk95",
-        "soundcloud_user": "starjunk95",
-        "spotify_artist_id": "523iXWyHL26prJR3GKjRhx",
-        "twitter_user": "starjunk95",
-        "youtube_user": "starjunk95"
-      },
-      "name": "Starjunk 95",
-      "performances": [
-        {
-          "artist_id": 2103576,
-          "body": "Starjunk 95 is centered around a fictional, anime-inspired crew of ragtag misfits that join forces to pilot an intergalactic radio station. Think Cowboy Bebop meets The Gorillaz & Daft Punk. Each crew member represents a different sound and style of music, and together they transmit the newest sounds of today drenched with vintage nostalgia of yesterday.\nEach song showcases a dynamic mix of colorful, genre-bending music and a playful pallette of rapping, pop vocals, turntable scratching, & groovy basslines. Starjunk 95 has crafted a unique & recognizable sound that is resonating deeply with fans across the world (and galaxy) Every music release coincides with a chapter of the story - painting a snapshot for listeners into the universe that has been created around Starjunk 95.",
-          "date_id": 5139,
-          "end_time": "2026-07-26T05:00:00+00:00",
-          "external_id": "873473",
-          "hide_end_time": false,
-          "hide_start_time": false,
-          "id": 323537,
-          "priority": 100,
-          "published": true,
-          "reminder_interval": 15,
-          "show_image_in_schedule": true,
-          "show_in_calendar": true,
-          "show_in_line_up": true,
-          "show_in_schedule": true,
-          "show_in_search": false,
-          "sold_out": false,
-          "stage_id": 17885,
-          "stage_name": "Fractal Forest",
-          "start_time": "2026-07-26T04:00:00+00:00",
-          "tags": []
-        }
-      ],
-      "priority": 100,
-      "published": true,
-      "show_in_artists": true,
-      "show_in_intake": true,
-      "show_in_search": true,
-      "show_section_titles": true,
-      "tags": [
-        {
-          "category": "other",
-          "color": "#7896FF",
-          "filter": true,
-          "name": "Artist",
-          "priority": 100,
-          "show_in_search": true,
-          "slug": "type-artist",
-          "visible": true
-        }
-      ],
-      "tracks": [
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 180480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02fbdd028245af4c0f39ad11ce",
-          "preview_url": "https://p.scdn.co/mp3-preview/d8ec7f8c0ae4925242ca089cd792a9ee54860e3f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Stardust Circuit",
-          "track_id": "0FeWojoJOweD1rGRFlLmW3"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 168181,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edf3b03024ed3327fc45d299",
-          "preview_url": "https://p.scdn.co/mp3-preview/f829db6a5ff8aa7cbe34e3800cdf620e8b2ac627?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Belden Towers",
-          "track_id": "0IkowLsGs1VxcpeLZaiR1M"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 160235,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e028697cd60d8a7a6295cc8604a",
-          "preview_url": "https://p.scdn.co/mp3-preview/1ecea6bcc33d111a9caa07583e2feb0e6908cc34?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "LX-777 (Lunar Data)",
-          "track_id": "2HYsPCvdZwBPT1FV7c8JGN"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 186240,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02317f7e442daf7d8df9de2dd1",
-          "preview_url": "https://p.scdn.co/mp3-preview/ee64f48420617ce24c9bbd899bc9c8c8d47eb8b3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Groove District",
-          "track_id": "2Xs3MaK9AzV48lZa7PIKCh"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 157983,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024310799ca09d0123331276e9",
-          "preview_url": "https://p.scdn.co/mp3-preview/b32c47254e2c0dcdae4cba6ff16c1ba10bb9c794?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Dozing Off Again... - House Edit",
-          "track_id": "3KLznPFm6IzzJiQMv9AS0B"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 194285,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e3e30d97138ad40e53e2368e",
-          "preview_url": "https://p.scdn.co/mp3-preview/3a1efeae58902789cbf6a383e428898d05a99309?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Spectra Ocean Dream Circuit",
-          "track_id": "3OjuwKFhNKHRjtsVwasQ5W"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 245647,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edf3b03024ed3327fc45d299",
-          "preview_url": "https://p.scdn.co/mp3-preview/9bbee1332f20adfe341550beb9e85e000c4a1d8f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Concept Of Grime",
-          "track_id": "6kUREvy4W8PTXGuHXXSYjp"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 183857,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edf3b03024ed3327fc45d299",
-          "preview_url": "https://p.scdn.co/mp3-preview/ebb32d50e4aaaa38da55e2bc7db482ee69977516?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Beat Keep Rockin'",
-          "track_id": "728pbIwfa4Owa2dfEXu7dF"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 227796,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edf3b03024ed3327fc45d299",
-          "preview_url": "https://p.scdn.co/mp3-preview/311cb1954e1e1b55357aa86c729e04dc64f232b1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Error 4 On The Floor",
-          "track_id": "7Apml1Un1bjL0tKverMqIZ"
-        },
-        {
-          "artist_name": "Starjunk 95",
-          "duration": 162480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edf3b03024ed3327fc45d299",
-          "preview_url": "https://p.scdn.co/mp3-preview/ea5dc1df1ba32cdb5dbaabde98da795965c2fa4c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "State Your Name",
-          "track_id": "7uA5DMiXh9rfjv8b9SOcvJ"
-        }
-      ]
+      "deleted_at": "2026-07-23T19:45:57+00:00",
+      "id": 2103576
     },
     {
       "allow_favoriting": true,
@@ -25680,12 +25549,12 @@
         },
         {
           "artist_name": "Solardo",
-          "duration": 190614,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02961921bb72683a8ce40abb0c",
-          "preview_url": "https://p.scdn.co/mp3-preview/157184e83943bb780a13b83cbcad2b07bbca4ecc?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 193846,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026ac8f0dea7f39230675f63d2",
+          "preview_url": "https://p.scdn.co/mp3-preview/bb8ac0ede0e6b3b80b6e70ba86e9a24d948bb250?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Tribesmen - 10 Years On Remix",
-          "track_id": "5qFo5AwnGYIg1DLylHQWM5"
+          "title": "Freedom",
+          "track_id": "5KBmsWg035nZmVpAy9ZpYe"
         },
         {
           "artist_name": "Solardo, Eli Brown",
@@ -26011,6 +25880,15 @@
           "track_id": "05riGImJSST0MLEbsPtfrT"
         },
         {
+          "artist_name": "Slynk",
+          "duration": 270629,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027a273d292a7c676c08ff3d16",
+          "preview_url": "https://p.scdn.co/mp3-preview/cbbdb1cdd7660a575ee1f2fab3887bc40c819456?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bad Duppy Walk - Original Mix",
+          "track_id": "08c9DUlpflDwNHsy0hDDIX"
+        },
+        {
           "artist_name": "Slynk, Defunk",
           "duration": 226200,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0212e3d3b245517b0b6e67eb11",
@@ -26018,15 +25896,6 @@
           "streaming_service": "spotify",
           "title": "Techno Viking",
           "track_id": "08ebLgZ0Motu8QFjCt8WMS"
-        },
-        {
-          "artist_name": "Slynk, Emotionz, Tiago Vasquez",
-          "duration": 211428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0266159cc7df132cb149b42821",
-          "preview_url": "https://p.scdn.co/mp3-preview/bbef9782a3b4e15fc84219185d18c4fde3abaf38?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Bionic",
-          "track_id": "0Rchc7xORCTCL0Uy5mJpHx"
         },
         {
           "artist_name": "Slynk, Phyphr",
@@ -26776,6 +26645,15 @@
           "track_id": "3fawKhD4tka2u3V6C2TJl8"
         },
         {
+          "artist_name": "Ivy Lab",
+          "duration": 336896,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e029ed3337dcde9ab4ffaf73045",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab6518cedf9c54c7d21b5a60ea0a347045a80326?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Live On Your Smile",
+          "track_id": "3nq6R5Mpf8cuIVT96es8S8"
+        },
+        {
           "artist_name": "Anushka, Ivy Lab",
           "duration": 314689,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0291cdc23b86e8bf8578d73176",
@@ -26783,15 +26661,6 @@
           "streaming_service": "spotify",
           "title": "Never Can Decide - Ivy Lab Remix",
           "track_id": "3zvpcAyfKr99YLJbVFOJIU"
-        },
-        {
-          "artist_name": "Ivy Lab",
-          "duration": 186175,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021da40c7e4eba70280267de75",
-          "preview_url": "https://p.scdn.co/mp3-preview/21946f0bad3858ae0efa2b97ad78e0674da55922?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Rajah",
-          "track_id": "50sOdziJOpELfu5YFHjzaL"
         },
         {
           "artist_name": "Ivy Lab, Two Fingers, Amon Tobin",
@@ -26899,30 +26768,21 @@
       "tracks": [
         {
           "artist_name": "V.I.V.E.K",
-          "duration": 361486,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a532fbe09797ebc3e53fe40b",
-          "preview_url": "https://p.scdn.co/mp3-preview/3ad83dbfb1082e3cb75fa37bb9e7fc83f184e107?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Soundman",
-          "track_id": "1uf7cDcYiFSucDGQVWal9p"
-        },
-        {
-          "artist_name": "V.I.V.E.K",
           "duration": 390854,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cad7156451bc40159c1f8c89",
-          "preview_url": "https://p.scdn.co/mp3-preview/41bd671516bc5100e9c4282d3e6c6073e6ae0b0a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0231e2c55248eae778941f743d",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ba80941511059161db3aebbda808ab68490a721?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Spread Love",
-          "track_id": "27wkozTdbNXeI34V5pC6y7"
+          "track_id": "2QYM6vwhjafvhvFsN9ovIV"
         },
         {
           "artist_name": "V.I.V.E.K",
           "duration": 278068,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02e915c9abb92d04ef7021d486",
-          "preview_url": "https://p.scdn.co/mp3-preview/09edcb84006c92bdbda602d60b921d93917a3325?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02046965e15356f072d645f129",
+          "preview_url": "https://p.scdn.co/mp3-preview/bce66ad2dc965eeff8c71e5b2ee65ae294a476c5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Out of Reach",
-          "track_id": "3DBCv15b4kq4DKOq5X1YMq"
+          "track_id": "2Rzb5fX4Oy4lYH3aWMZyuc"
         },
         {
           "artist_name": "V.I.V.E.K",
@@ -26971,6 +26831,15 @@
         },
         {
           "artist_name": "V.I.V.E.K",
+          "duration": 365143,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0231e2c55248eae778941f743d",
+          "preview_url": "https://p.scdn.co/mp3-preview/ed5751677fa2d5fba21f0f1b04e7645e3632993c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The Big Bang",
+          "track_id": "5ntO4a7IP7JAyVFww8rvqY"
+        },
+        {
+          "artist_name": "V.I.V.E.K",
           "duration": 273760,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b3030fde038afec9f0fc2fa0",
           "preview_url": "https://p.scdn.co/mp3-preview/64b9cd1a049bf9a91deeb792b97e0da6005deb58?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -26980,12 +26849,12 @@
         },
         {
           "artist_name": "V.I.V.E.K",
-          "duration": 365143,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02cad7156451bc40159c1f8c89",
-          "preview_url": "https://p.scdn.co/mp3-preview/9d37b1dd006e68f26b11a037846601c2aaf77750?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 361486,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02acdb924ace34c323dfd55b7a",
+          "preview_url": "https://p.scdn.co/mp3-preview/ddc64ecd87d65112d6843fae1771e8b1511f472a?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "The Big Bang",
-          "track_id": "6su7GV9ilMJGUtVESqwlLu"
+          "title": "Soundman",
+          "track_id": "76qcu7IfZGd45mZuHJmwgy"
         }
       ]
     },
@@ -27079,15 +26948,6 @@
         },
         {
           "artist_name": "ATYYA",
-          "duration": 168428,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ca5011603d20be35ab187fd0",
-          "preview_url": "https://p.scdn.co/mp3-preview/7c76be350512423592319ea75eb1954955f0e0a4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "MAD TING",
-          "track_id": "1U9vr2cNBDU20nC5shGvyT"
-        },
-        {
-          "artist_name": "ATYYA",
           "duration": 202666,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02b61bc12420b6d3a20d6300e4",
           "preview_url": "https://p.scdn.co/mp3-preview/bfcabc230ea9157ed4bb25e14feb8f569f118435?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -27139,6 +26999,15 @@
           "streaming_service": "spotify",
           "title": "Light it Up",
           "track_id": "73zdqhZG7Xmfbazj5uhRd8"
+        },
+        {
+          "artist_name": "Josh Teed, ATYYA",
+          "duration": 224895,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027fe8a35a547620f3b3a1df77",
+          "preview_url": "https://p.scdn.co/mp3-preview/d781e3cc8b4ca8cef5d176bee09789ce18d4b471?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Nightfall",
+          "track_id": "7FhNEqX9ggsQNOLaqPiRze"
         },
         {
           "artist_name": "ATYYA, Finnoh",
@@ -28093,6 +27962,15 @@
           "track_id": "50hgvSdrIieorRB9VXtkCj"
         },
         {
+          "artist_name": "Mungo's Hi Fi, Ranking Joe",
+          "duration": 240481,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02a42faedfcecfb2538a70e34b",
+          "preview_url": "https://p.scdn.co/mp3-preview/144b4925fcc634bdc71145f26bd46bb1c66d2f1c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "I Love Jah",
+          "track_id": "5IxfR8L1XFjJSwvTjKhNHO"
+        },
+        {
           "artist_name": "Mungo's Hi Fi, Soom T",
           "duration": 238657,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02629122093787544fb627a86a",
@@ -28118,15 +27996,6 @@
           "streaming_service": "spotify",
           "title": "Back In the Dayz",
           "track_id": "7Gfw0fTWsmPflnplixtkJ4"
-        },
-        {
-          "artist_name": "Mungo's Hi Fi, Eva Lazarus",
-          "duration": 255823,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0268dc8db881d111efc67ad6e0",
-          "preview_url": "https://p.scdn.co/mp3-preview/5c0429e1917f961273a98c82904d0a9662f91984?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Dub Be Good to Me",
-          "track_id": "7tCvKHZPqbCKDCfv073CYd"
         },
         {
           "artist_name": "Mungo's Hi Fi, Soom T",
@@ -28651,15 +28520,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "TKO, Ignotus",
-          "duration": 306666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027b97f658fbde36bd46e704cd",
-          "preview_url": "https://p.scdn.co/mp3-preview/d479571c4a882327280589e966f2ec73b111b573?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Warning - Ignotus Remix",
-          "track_id": "1zeH1fgNZWkMqNMNid4on6"
-        },
-        {
           "artist_name": "Good Neighbor, TKO",
           "duration": 243750,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0235748aebf1b1d248302c840e",
@@ -28679,12 +28539,12 @@
         },
         {
           "artist_name": "TKO",
-          "duration": 269261,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02ff61b137a7d78d073ee5949b",
-          "preview_url": "https://p.scdn.co/mp3-preview/7a7059b069b8d48e0e929fb6fe73b240de9e1aa2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 289523,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e025b068c8a13611b10cc6c81e6",
+          "preview_url": "https://p.scdn.co/mp3-preview/bd86735ed46b8c114cb3b0f53925568503c65385?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Red Light",
-          "track_id": "3dsIl6LrLYSEFMyIrQ1TRN"
+          "title": "In The Background",
+          "track_id": "3hE1V8eIIEqVdg19dykzes"
         },
         {
           "artist_name": "Longstocking, TKO",
@@ -28730,6 +28590,15 @@
           "streaming_service": "spotify",
           "title": "Bed Of Roses - Original Mix",
           "track_id": "5z6xrMOqOcY0NDnNdKMVxj"
+        },
+        {
+          "artist_name": "TKO",
+          "duration": 250131,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c1963a027dd20298d9cab4fa",
+          "preview_url": "https://p.scdn.co/mp3-preview/a48831eb3fc31f7a9b218822ca3d3af310387f2e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Never Doubt",
+          "track_id": "6B1d6CXaTrlQQMqWHiF0lj"
         },
         {
           "artist_name": "Eric Mark, Kivi, TKO",
@@ -29124,15 +28993,6 @@
         },
         {
           "artist_name": "ATRIP",
-          "duration": 214545,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022a99c78b21edb526aaef1d7e",
-          "preview_url": "https://p.scdn.co/mp3-preview/f2892e12a375cb7383dfd37379c544245d4367d3?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "All Night",
-          "track_id": "1soZBo7M77W55tmJ9byIgh"
-        },
-        {
-          "artist_name": "ATRIP",
           "duration": 190588,
           "image_url": "https://i.scdn.co/image/ab67616d00001e022a99c78b21edb526aaef1d7e",
           "preview_url": "https://p.scdn.co/mp3-preview/9627e2ae25b85af851dfe86d2ed0647909be7bef?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -29193,6 +29053,15 @@
           "streaming_service": "spotify",
           "title": "Keep Up",
           "track_id": "7LWGTXRs0lnEPMVwoiWjFR"
+        },
+        {
+          "artist_name": "ATRIP, DJ BORING, Bella Claxton",
+          "duration": 257642,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bf0be8bb4550bd38e3b030f3",
+          "preview_url": "https://p.scdn.co/mp3-preview/7034add6dd636ce74e8623e0418b66cd447a29af?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Keep Up - Bella Claxton Remix",
+          "track_id": "7hACNI0uWqGkEztJoEQBsb"
         }
       ]
     },
@@ -29334,8 +29203,8 @@
         {
           "artist_name": "Lavern",
           "duration": 117250,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02d09d455694c1ac6c6ad40214",
-          "preview_url": "https://p.scdn.co/mp3-preview/500668a3493fa9784b5851f18da0320f58248f46?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e023060f18204fb4c60c053d825",
+          "preview_url": "https://p.scdn.co/mp3-preview/77059b57bbda43cd487953b39428e50dcf5ca3ce?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Lose My Mind",
           "track_id": "7D0n7hVXtVUCw0hil4ejek"
@@ -29453,6 +29322,15 @@
           "track_id": "30WnQsvwFeYEd9k08vV7Dl"
         },
         {
+          "artist_name": "Boris Brejcha, MC Flipside",
+          "duration": 184320,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02d84bf5537d34b29852e40383",
+          "preview_url": "https://p.scdn.co/mp3-preview/62cc1d9dcf91333124048d1b4d30ce22109327e4?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Dirty Beat",
+          "track_id": "3DSY7B0roAopGKkCQGut3K"
+        },
+        {
           "artist_name": "Boris Brejcha, Arctic Lake",
           "duration": 179520,
           "image_url": "https://i.scdn.co/image/ab67616d00001e024f1bcbe8d814f8c53054c7b2",
@@ -29460,15 +29338,6 @@
           "streaming_service": "spotify",
           "title": "House Music (feat. Arctic Lake) (feat. Arctic Lake) - Edit",
           "track_id": "4CgWViOVEbDKtcVVkFwYgh"
-        },
-        {
-          "artist_name": "Boris Brejcha, SHELLS",
-          "duration": 180480,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02a9117406bb15a532c06f29aa",
-          "preview_url": "https://p.scdn.co/mp3-preview/acdaf1ea8b4785ee7f4d6a41d36a6fef4a58fa8d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Be OK",
-          "track_id": "4Qujdsyg6fVpuI6rMZsTQI"
         },
         {
           "artist_name": "Ben Böhmer, Nils Hoffmann, Malou, Boris Brejcha",
@@ -29890,21 +29759,30 @@
         },
         {
           "artist_name": "Two Shell",
-          "duration": 215649,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e024bca83756e2a21ffbf2a0e3d",
-          "preview_url": "https://p.scdn.co/mp3-preview/0a14991a7108b1fd830741a9277fe07cb6e67442?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 31234,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02706f7f5888307398e2fd1fe0",
+          "preview_url": "https://p.scdn.co/mp3-preview/68fba21c7c3668eb7a7d2de40b3d3ddbae9ebcfa?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "The Nightmare",
-          "track_id": "0tHopCSHUlzvni2x7NhjgA"
+          "title": "Super Soft",
+          "track_id": "0mm1HE9TWKlF7b9UeKAmrE"
         },
         {
           "artist_name": "Two Shell",
-          "duration": 225230,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021578c11aa3577f3a049e7dd0",
-          "preview_url": "https://p.scdn.co/mp3-preview/d344f72ec58f56b69ffa063d14973d52a0b36633?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 212993,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02706f7f5888307398e2fd1fe0",
+          "preview_url": "https://p.scdn.co/mp3-preview/9e928b2bd5213c104336f74c6da0d84d8194b700?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Live Forever",
-          "track_id": "2jIvbUoazwTE8Fvop32cVw"
+          "title": "Step Inside",
+          "track_id": "13vVmPibGUvBu6GAEiU5Cs"
+        },
+        {
+          "artist_name": "Two Shell",
+          "duration": 132964,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02706f7f5888307398e2fd1fe0",
+          "preview_url": "https://p.scdn.co/mp3-preview/c2820b91398185a3b99df0463d4f64b84f300974?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Love You So Much",
+          "track_id": "1DFObXnSMn4Oe7LM5GxwsY"
         },
         {
           "artist_name": "Two Shell, FKA twigs",
@@ -29926,6 +29804,15 @@
         },
         {
           "artist_name": "Two Shell",
+          "duration": 168850,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02706f7f5888307398e2fd1fe0",
+          "preview_url": "https://p.scdn.co/mp3-preview/5c26e3d7ac9d904a7f8544a30be3287f1c3282ac?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The Nightmare [1]",
+          "track_id": "4JUiNRNQZRcb1iyei3dFNi"
+        },
+        {
+          "artist_name": "Two Shell",
           "duration": 230081,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f7cbe67c0b51844ccc7b40e1",
           "preview_url": "https://p.scdn.co/mp3-preview/f695b90e275031397afa1ad091c2ba80b98262bb?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
@@ -29935,30 +29822,12 @@
         },
         {
           "artist_name": "Two Shell",
-          "duration": 212993,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021578c11aa3577f3a049e7dd0",
-          "preview_url": "https://p.scdn.co/mp3-preview/cd5e9ab6c9ee5b98c79f1a735558b8f5d160b203?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 225230,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02706f7f5888307398e2fd1fe0",
+          "preview_url": "https://p.scdn.co/mp3-preview/23063faae6b8730da63ad739992e12733a91d749?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Step Inside",
-          "track_id": "69mapIYHylF8K8UGTNuMai"
-        },
-        {
-          "artist_name": "Two Shell",
-          "duration": 168850,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021578c11aa3577f3a049e7dd0",
-          "preview_url": "https://p.scdn.co/mp3-preview/b47e6141163047b0a748b720411cc59dd9c23f10?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "The Nightmare [1]",
-          "track_id": "7l09bH5NrTMcvOVR7427ve"
-        },
-        {
-          "artist_name": "Two Shell",
-          "duration": 31234,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021578c11aa3577f3a049e7dd0",
-          "preview_url": "https://p.scdn.co/mp3-preview/3df86493419e2056f9b1ca718cc9a09f656ecc2d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Super Soft",
-          "track_id": "7oxjUJONuFtY3buU5JxWG3"
+          "title": "Live Forever",
+          "track_id": "6UasioIqcqOEgZJhbxA70z"
         },
         {
           "artist_name": "Two Shell, Sugababes",
@@ -30091,6 +29960,15 @@
           "track_id": "4nCO6fJEjqZv7OJzV7LBEd"
         },
         {
+          "artist_name": "Brunello, Celia Babini",
+          "duration": 433920,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c103f691707f0f8734d0f4f2",
+          "preview_url": "https://p.scdn.co/mp3-preview/7a34a246dcd1567b84af560cbeed8b9577580b7e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "The 11th Hour",
+          "track_id": "5rsbEsAcHDNMS6HmWKvZ4m"
+        },
+        {
           "artist_name": "Brunello",
           "duration": 411968,
           "image_url": "https://i.scdn.co/image/ab67616d00001e021228d509d4c5281f7a083ee4",
@@ -30107,15 +29985,6 @@
           "streaming_service": "spotify",
           "title": "Science Fiction",
           "track_id": "6FTveMyq8szPAloptdZ17g"
-        },
-        {
-          "artist_name": "Brunello",
-          "duration": 371250,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022d66efb2e7680209d6a4fad9",
-          "preview_url": "https://p.scdn.co/mp3-preview/b2f2009d8735a8f8ad6f1da00bb71e431d880056?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Jester's Privilege",
-          "track_id": "6TipVm7dz9Z6CZaUBK3Rb5"
         },
         {
           "artist_name": "Brunello, Hilel Lev",
@@ -31526,15 +31395,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Dr Parnassus, Somko, MAGISUS",
-          "duration": 398500,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e021a942c8f7373fb62fadc3427",
-          "preview_url": "https://p.scdn.co/mp3-preview/575c4ec75e98fe753650bcc76d1b4739e32d8931?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Caskabel",
-          "track_id": "0DfyPbgMGBMh8f9wjwCkcm"
-        },
-        {
           "artist_name": "Dr Parnassus, Somko, MAGISUS, makeke",
           "duration": 399000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f1228de8e8c6b84eecfd6450",
@@ -31542,6 +31402,15 @@
           "streaming_service": "spotify",
           "title": "Caskabel - Makeke Remix",
           "track_id": "0MoVTIKxobJnZpe6ro2l5E"
+        },
+        {
+          "artist_name": "Dr Parnassus, Somko, MAGISUS, Stavrakiz",
+          "duration": 318500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0258ea5f8da01a76fea7fa8119",
+          "preview_url": "https://p.scdn.co/mp3-preview/0af0c832cd7d7ee135a48b527d7b39638bc898d8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Caskabel - Stavrakiz Remix",
+          "track_id": "1gvIr5B6cvBu7xtOketFen"
         },
         {
           "artist_name": "Sadhu Sensi, MAGISUS, Eretna",
@@ -31555,8 +31424,8 @@
         {
           "artist_name": "Somko, MAGISUS, Benny Langfur",
           "duration": 348999,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02127516487e8c6dbb9be70bd7",
-          "preview_url": "https://p.scdn.co/mp3-preview/a92c74edca94ff9ba3e7077f4cb5d8189890be48?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02721c236365811c52ac2e94d0",
+          "preview_url": "https://p.scdn.co/mp3-preview/615e660f84a42a8439d977a28a81db6c61d8028d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Raga Step",
           "track_id": "44DEQzply5dlpnzpAmz0wX"
@@ -31996,6 +31865,15 @@
           "track_id": "0m2YCXCL1WRLsfvYvLtof4"
         },
         {
+          "artist_name": "Koji Aiken",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f58655f4d5a2c7469664dad9",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf3a47d81a1db546002c3b068640817fd22dde2c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Ghost Mode",
+          "track_id": "13iVc8fhFipfpIKJKoUuUm"
+        },
+        {
           "artist_name": "Koji Aiken, Bass Ventura",
           "duration": 215734,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02f67fa371799207e5a847190e",
@@ -32030,15 +31908,6 @@
           "streaming_service": "spotify",
           "title": "Same Thoughts",
           "track_id": "4FljyAqmXU6odW6ZICk7Xv"
-        },
-        {
-          "artist_name": "Koji Aiken",
-          "duration": 204137,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022066dae1ec69edb9cf3e80e9",
-          "preview_url": "https://p.scdn.co/mp3-preview/f678288f493d92637f0c79b18890a7675f839e8d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Riddim Rhythm",
-          "track_id": "5ckXDvYrfF5LeR3HSUIHCu"
         },
         {
           "artist_name": "Koji Aiken",
@@ -32313,6 +32182,15 @@
           "track_id": "0K8RSylT88y3xAE2Hto0Uf"
         },
         {
+          "artist_name": "Sam Binga, Redders",
+          "duration": 167316,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e020fd747cd328ed687692b9c8d",
+          "preview_url": "https://p.scdn.co/mp3-preview/4724cc65705ffc09f2f5e8c10bfd29e3671890b1?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Oh My Gosh",
+          "track_id": "0hFEEncevt5dcNvlSxlAIy"
+        },
+        {
           "artist_name": "Cesco, Sam Binga, Redders",
           "duration": 163097,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02533796fbfb8dc502b2dbba4b",
@@ -32374,15 +32252,6 @@
           "streaming_service": "spotify",
           "title": "Vandilero - Particle Remix",
           "track_id": "6tZ3IrSvw2VEAEMJfGS7f9"
-        },
-        {
-          "artist_name": "Addison Groove, Sam Binga",
-          "duration": 225600,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02101c9818587192e6a499345f",
-          "preview_url": "https://p.scdn.co/mp3-preview/b3a0a7e9c1d6699342d427e724f54be9adf20b80?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "FKN SRS",
-          "track_id": "7igWtfJLvStCWcRPGJg81Z"
         }
       ]
     },
@@ -32480,13 +32349,13 @@
           "track_id": "2tdB1DVQFAUuzuACrZWIx8"
         },
         {
-          "artist_name": "Steve Bug, Josh Wink",
-          "duration": 437405,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02158e0424bd7e1074ae9e57ac",
-          "preview_url": "https://p.scdn.co/mp3-preview/94e73db579168f6aabfc86eaccb40b7a1111f86b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Josh Wink",
+          "duration": 467600,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02bc4fd087fa0126f02a4e33ac",
+          "preview_url": "https://p.scdn.co/mp3-preview/3fdc8b7f81d4bf190ff9eab1a0e638b73f95ac8e?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Go Back",
-          "track_id": "3dLO0l3eU3Xjr8lqhgu7Zb"
+          "title": "Futurama",
+          "track_id": "31P58Sk8gl8jmmjohUBWQF"
         },
         {
           "artist_name": "Josh Wink",
@@ -33038,13 +32907,13 @@
           "track_id": "2XjwPOCufJRzLKENUllYUg"
         },
         {
-          "artist_name": "SHIMA, tesh",
-          "duration": 197142,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e023e5f822bf9225f2011d933d8",
-          "preview_url": "https://p.scdn.co/mp3-preview/3136b1ca61bc695f8ca1c1c99d97af23b83b4c9b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "SHIMA",
+          "duration": 166666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e028122fba63d36ca8dc001661f",
+          "preview_url": "https://p.scdn.co/mp3-preview/3691c6374d13cdedc97be4036e71c61622b760ee?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "INVISIBLE - tesh Remix",
-          "track_id": "3MwHiptJX7hU1HRgt2gLMa"
+          "title": "MAITAKE",
+          "track_id": "3LPJU87N3e60XKV5rQatrb"
         },
         {
           "artist_name": "SHIMA",
@@ -33853,15 +33722,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "[IVY]",
-          "duration": 182069,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02f0cf8f203073fc20ed2501f8",
-          "preview_url": "https://p.scdn.co/mp3-preview/dbef5833e1e580a3a57d78b8e5c58fd3ff9527ba?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Flow",
-          "track_id": "06eJJV9q1HieNW8dm9htJt"
-        },
-        {
           "artist_name": "[IVY], Adalaide Adams",
           "duration": 215172,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0299e9af669d0c385b71033ce8",
@@ -33914,6 +33774,15 @@
           "streaming_service": "spotify",
           "title": "To The Sky",
           "track_id": "2ta1uHvZMY7yG8xms7VTr3"
+        },
+        {
+          "artist_name": "[IVY]",
+          "duration": 205517,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02f164e9e73a7aff2be2ef00cf",
+          "preview_url": "https://p.scdn.co/mp3-preview/c624b096e1dc29552b45505b0ee7fb4a636b17e7?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Vertigo",
+          "track_id": "37iSB0vksxFcgwG4W3CPxm"
         },
         {
           "artist_name": "[IVY], Adalaide Adams",
@@ -37951,21 +37820,30 @@
         },
         {
           "artist_name": "Shelajit, Bamboo Sky",
-          "duration": 239999,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e027e921ab0dd35e34a56694e9d",
-          "preview_url": "https://p.scdn.co/mp3-preview/870baa966f30cb92fd2c7fd5f324485dddcfa9bd?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 218666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0293659a466a32b73a211196bb",
+          "preview_url": "https://p.scdn.co/mp3-preview/7877c04bb02c918c626e4826f124291ebbb7bc95?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Difu",
-          "track_id": "0kYYRxAbgBrXh4QuwRaURI"
+          "title": "Dou Fong",
+          "track_id": "1Rxj0SvuEBQbbFeBATG8bQ"
+        },
+        {
+          "artist_name": "Shelajit, Zion",
+          "duration": 297093,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02771406edb5b9fcdd3246568a",
+          "preview_url": "https://p.scdn.co/mp3-preview/0d9386003980b173e4fb250e6519f00f670c2bb5?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Puolo",
+          "track_id": "1VjZaBvoQxVgvx0Ow6Fuzy"
         },
         {
           "artist_name": "Shelajit, Deva Carolina",
           "duration": 247384,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02c6447850d65d6c1e3d3f012a",
-          "preview_url": "https://p.scdn.co/mp3-preview/18b76c04306aca0039bb01f07f5f7cbd7f2fefa2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0293659a466a32b73a211196bb",
+          "preview_url": "https://p.scdn.co/mp3-preview/807e413b6f10220120a0a89b0b3515d9a8445b15?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
           "title": "Diwa Shen",
-          "track_id": "3EhX9KudCzlK4i9HMjoMPo"
+          "track_id": "2gw8eCLQbREkBiHxVvpbxm"
         },
         {
           "artist_name": "Shelajit, Delgira",
@@ -37986,15 +37864,6 @@
           "track_id": "4gSuILmjXH8OZknF8K5Ket"
         },
         {
-          "artist_name": "Shelajit, SOJI",
-          "duration": 212389,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e020d654bc5c6d8d5ab215dbfdf",
-          "preview_url": "https://p.scdn.co/mp3-preview/72a302eeea1faf937c89d4c7dca0269dde0a213b?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Hung Hei",
-          "track_id": "5B1u1SsJwfktN1f0txuZmF"
-        },
-        {
           "artist_name": "Abstrakt Sonance, Shelajit",
           "duration": 198857,
           "image_url": "https://i.scdn.co/image/ab67616d00001e023d8c819c356cfe94ac7208b9",
@@ -38004,22 +37873,13 @@
           "track_id": "5nGOpRyB7hwARyGx9JtPlQ"
         },
         {
-          "artist_name": "Shelajit, Bamboo Sky",
-          "duration": 218666,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02edb848b3f622791ea8e57c85",
-          "preview_url": "https://p.scdn.co/mp3-preview/396f4d661144e49ad742317067c222ab0979af52?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "artist_name": "Shelajit, SOJI",
+          "duration": 212389,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0293659a466a32b73a211196bb",
+          "preview_url": "https://p.scdn.co/mp3-preview/d4480260d72d67fdf262ac3b221909e8d170cf6d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Dou Fong",
-          "track_id": "6WP5k10ppedEF4EQwawz2t"
-        },
-        {
-          "artist_name": "The Texture Bois, LŪKA, Shelajit, Zirque Michael Bonner",
-          "duration": 274615,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e02157cf92f25d35734c3d50364",
-          "preview_url": "https://p.scdn.co/mp3-preview/bfe0362cc649a91179171c405fa989b5da90d423?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "An Offering",
-          "track_id": "6pWOy64jCjQOKUB0ss91Us"
+          "title": "Hung Hei",
+          "track_id": "5sbUpivpHyqVHKWBPdVf9d"
         },
         {
           "artist_name": "Sage 808, Ruby Chase, Equanimous, Shelajit",
@@ -38029,6 +37889,15 @@
           "streaming_service": "spotify",
           "title": "Kairos - Shelajit Remix",
           "track_id": "6yMfscisQrkpBwOo0x2cg5"
+        },
+        {
+          "artist_name": "Shelajit, Bamboo Sky",
+          "duration": 239999,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0293659a466a32b73a211196bb",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b4a64c004c5c0b8f0bc7161fbcec91e8c5eb5b8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Difu",
+          "track_id": "72HNZHtRfrpVDJLMrD32FS"
         }
       ]
     },
@@ -38863,15 +38732,6 @@
       ],
       "tracks": [
         {
-          "artist_name": "Alex Unger",
-          "duration": 117692,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e0274319e863e8309ce8231b37a",
-          "preview_url": "https://p.scdn.co/mp3-preview/7633a0e0cf665503c7a80fa5d4ccd4eb5119ce87?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Matrix",
-          "track_id": "0R9bGVVrY8IBEKADokkXFM"
-        },
-        {
           "artist_name": "Alex Unger, parkbreezy",
           "duration": 166956,
           "image_url": "https://i.scdn.co/image/ab67616d00001e0239a00f23954e89a8278a66e7",
@@ -38924,6 +38784,15 @@
           "streaming_service": "spotify",
           "title": "Arthur Adams",
           "track_id": "5HfRPD7uywRh9Pt6WN3JsR"
+        },
+        {
+          "artist_name": "Alex Unger",
+          "duration": 266666,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e026f8f940c373508b3a5569c31",
+          "preview_url": "https://p.scdn.co/mp3-preview/0a44e49b974ea624ed172617210322f7b3f32541?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Pai Mei",
+          "track_id": "5hO2M9OGqD2Utjb19gYrZ1"
         },
         {
           "artist_name": "Alex Unger",
@@ -39126,6 +38995,15 @@
           "track_id": "4FEGZ7qZSLfGyd4orz15gW"
         },
         {
+          "artist_name": "parkbreezy",
+          "duration": 182769,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02b49ae5c1a8630d5b18db95ae",
+          "preview_url": "https://p.scdn.co/mp3-preview/e4c2353545b5061260104438c04d2f72ba143323?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Cool Breeze",
+          "track_id": "4ScdnCIHUIhSdloZBqTrUu"
+        },
+        {
           "artist_name": "parkbreezy, TF Marz",
           "duration": 168000,
           "image_url": "https://i.scdn.co/image/ab67616d00001e02dcc568e1b4c23ff1ae7b05b4",
@@ -39169,15 +39047,6 @@
           "streaming_service": "spotify",
           "title": "Pressin",
           "track_id": "7m3CqtPTCN4Y0nnjeIl2xG"
-        },
-        {
-          "artist_name": "parkbreezy",
-          "duration": 182769,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e025d5d9095567bc84ceee96f85",
-          "preview_url": "https://p.scdn.co/mp3-preview/d5216e93050b7978e678cb7d055e8b013619a79c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
-          "streaming_service": "spotify",
-          "title": "Cool Breeze",
-          "track_id": "7s91Ciwaz3z6wQnY0MPlV2"
         }
       ]
     },
@@ -40305,12 +40174,12 @@
         },
         {
           "artist_name": "Inc.Line",
-          "duration": 142200,
-          "image_url": "https://i.scdn.co/image/ab67616d00001e022bff4f928eb074567881226b",
-          "preview_url": "https://p.scdn.co/mp3-preview/e28cf8f722da2b4630872811ff2d577af4a5bba2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "duration": 126500,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e027318bd3782b15961dcbb7dd3",
+          "preview_url": "https://p.scdn.co/mp3-preview/2c83be59ff759c1b0a694664e0bce093547c812d?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
           "streaming_service": "spotify",
-          "title": "Hands Up",
-          "track_id": "4HXtCtySKmnY78WdWJSsgD"
+          "title": "Cash Drop",
+          "track_id": "4b592cYDKNMI42hMTB9HAq"
         },
         {
           "artist_name": "Inc.Line",
@@ -40352,7 +40221,7 @@
     },
     {
       "allow_favoriting": true,
-      "body": "",
+      "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has crafted a unique and expansive audio and visual world, seamlessly blending genres to create a sonic tapestry that defies convention. <br />\n<br />\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. <br />\n<br />\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
       "category": "regular",
       "external_id": "167132",
       "hide_image_on_detail": "never",
@@ -40377,6 +40246,7 @@
       "performances": [
         {
           "artist_id": 2121365,
+          "body": "Drenched in the vibrant hues of creativity and fueled by innovation, K+Lab stands as a musical virtuoso and a visual wizard. Hailing from New Zealand, he has crafted a unique and expansive audio and visual world, seamlessly blending genres to create a sonic tapestry that defies convention. \n\nWith a discography that reads like a sonic odyssey, K+Lab has become synonymous with exhilarating beats, funky basslines, and an infectious energy that transcends the dancefloor. \n\nIn the ever-evolving landscape of electronic music, K+Lab remains at the forefront, pushing boundaries and challenging the status quo. His commitment to innovation, coupled with an insatiable appetite for experimentation, has earned him a dedicated global following. Whether on stage or through a visual masterpiece, K+Lab continues to redefine the possibilities of artistic expression, leaving an indelible mark on the intersection of music and visual art.",
           "date_id": 5137,
           "end_time": "2026-07-24T07:30:00+00:00",
           "external_id": "875885",
@@ -41253,6 +41123,165 @@
           "streaming_service": "spotify",
           "title": "Word To The Mother",
           "track_id": "7zDpTCasugFxkJLI4qDff5"
+        }
+      ]
+    },
+    {
+      "allow_favoriting": true,
+      "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
+      "category": "regular",
+      "external_id": "167109",
+      "hide_image_on_detail": "never",
+      "hide_image_on_overview": "never",
+      "id": 2122650,
+      "image": {
+        "-1": "",
+        "100": "https://media.appmiral.com/prod/performance/0058/04/thumb_5703272_performance_100.jpeg",
+        "120": "https://media.appmiral.com/prod/performance/0058/04/thumb_5703272_performance_120.jpeg",
+        "250": "https://media.appmiral.com/prod/performance/0058/04/thumb_5703272_performance_250.jpeg",
+        "500": "https://media.appmiral.com/prod/performance/0058/04/thumb_5703272_performance_500.jpeg"
+      },
+      "links": {
+        "facebook_page_id": "fatherfunk",
+        "instagram_user": "fatherfunk/",
+        "soundcloud_user": "father-funk",
+        "spotify_artist_id": "2v8mmZp35c5E1pTDecZUkv",
+        "twitter_user": "fatherfunkmusic"
+      },
+      "name": "Father Funk",
+      "performances": [
+        {
+          "artist_id": 2122650,
+          "body": "Renowned for his high energy DJ sets and electrifying original productions, which fuse elements of Funk, Hip Hop, and Disco with everything from Dubstep to Drum & Bass, Father Funk's unique, genre-bending, party-rocking style has gained him a cult following worldwide. Delivered with a mischievous grin and thunderous onstage energy, Father Funk has become synonymous with instantly recognizable original productions and notorious bootlegs that have garnered international acclaim.",
+          "date_id": 5139,
+          "end_time": "2026-07-26T05:00:00+00:00",
+          "external_id": "877085",
+          "hide_end_time": false,
+          "hide_start_time": false,
+          "id": 356776,
+          "priority": 100,
+          "published": true,
+          "reminder_interval": 15,
+          "show_image_in_schedule": true,
+          "show_in_calendar": true,
+          "show_in_line_up": true,
+          "show_in_schedule": true,
+          "show_in_search": false,
+          "sold_out": false,
+          "stage_id": 17885,
+          "stage_name": "Fractal Forest",
+          "start_time": "2026-07-26T04:00:00+00:00",
+          "tags": []
+        }
+      ],
+      "priority": 100,
+      "published": true,
+      "show_in_artists": true,
+      "show_in_intake": true,
+      "show_in_search": true,
+      "show_section_titles": true,
+      "tags": [
+        {
+          "category": "other",
+          "color": "#7896FF",
+          "filter": true,
+          "name": "Artist",
+          "priority": 100,
+          "show_in_search": true,
+          "slug": "type-artist",
+          "visible": true
+        }
+      ],
+      "tracks": [
+        {
+          "artist_name": "Father Funk",
+          "duration": 176914,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0226fb0f5a02262bfe8213fe42",
+          "preview_url": "https://p.scdn.co/mp3-preview/b02fbea526808f966baa15dca1638cea46117e5f?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Legend Of The Rent",
+          "track_id": "1Q5XMRIKkWB3pbB5TI8I79"
+        },
+        {
+          "artist_name": "Boogie T, Father Funk",
+          "duration": 228275,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02c9fdc9fda0caa228581383bc",
+          "preview_url": "https://p.scdn.co/mp3-preview/ea263a5f4afb2b8e9ff562ebfaefa9c25babfc6c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Swamp Ting",
+          "track_id": "1w4P729vqIe0EKL9Mg8Y3h"
+        },
+        {
+          "artist_name": "The Sponges, Father Funk",
+          "duration": 216975,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02559880eeaa6e1b19aceaa46e",
+          "preview_url": "https://p.scdn.co/mp3-preview/962a0f42e9d5e039fb2f9fcfa4e37e086737d682?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "All I Hear (is a funky bassline)",
+          "track_id": "2lpk8tsodfZooXlPFbN5LK"
+        },
+        {
+          "artist_name": "Father Funk",
+          "duration": 178909,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0297602e824a75148999b6f5f3",
+          "preview_url": "https://p.scdn.co/mp3-preview/38b057b5c280ccebb1c8a56671c81a273e5e7d15?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Boogie Time - Original Mix",
+          "track_id": "3NlLWyxZ6TaNBjFPch6pnZ"
+        },
+        {
+          "artist_name": "SunSquabi, Nate Miller, Father Funk",
+          "duration": 168000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0279b3a5f64a4024e865ad4e89",
+          "preview_url": "https://p.scdn.co/mp3-preview/69245d1a9baefed1e49b56dd90a276117df30468?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Brass Pineapple - Father Funk Remix",
+          "track_id": "4hnLXt9jG8t8yJAfgUABbm"
+        },
+        {
+          "artist_name": "Father Funk, Kyle Goldstein",
+          "duration": 172137,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/9c48efe8d565535ea16435444caaa7cb91b849aa?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "10 Toes Down",
+          "track_id": "633Gfp5bdRWVdalF0BbRSl"
+        },
+        {
+          "artist_name": "Father Funk",
+          "duration": 125142,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e0244feb6713d7931f77172040c",
+          "preview_url": "https://p.scdn.co/mp3-preview/100904f74f80fd29882ccf3759bf353b69da9eb8?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "I Feel Good",
+          "track_id": "6nv74lPnBGzHa2gYjjfb4t"
+        },
+        {
+          "artist_name": "Father Funk, zoska, ProbCause",
+          "duration": 140800,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/77bee3750d04ce88e69e91d14d669e5c0ec2024c?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Trippy Road",
+          "track_id": "72fFsQ2OlKXGd5nfVSnMzc"
+        },
+        {
+          "artist_name": "SoDown, Father Funk",
+          "duration": 160000,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e024bd9b245749824f6f065cea6",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e17408a908f0379f8a1b038f9ce071191532918?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Bring The Funk Back",
+          "track_id": "76D83eABWRqrPwq0N59sEo"
+        },
+        {
+          "artist_name": "Father Funk, Def3",
+          "duration": 198857,
+          "image_url": "https://i.scdn.co/image/ab67616d00001e02ce01526739523b5ed4e97815",
+          "preview_url": "https://p.scdn.co/mp3-preview/937039276c15f94e39bb5feace476247801c73f2?cid=a762aeaf562f4d58a9a36b6bbc1b29e3",
+          "streaming_service": "spotify",
+          "title": "Rage Again",
+          "track_id": "7kmGfdwNsrKF5cESnfe7ih"
         }
       ]
     }
