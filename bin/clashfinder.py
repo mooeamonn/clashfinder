@@ -155,6 +155,12 @@ class ClashfinderClient:
     def _get(self, url):
         try:
             response = self.session.get(url, timeout=30)
+            print(  # TEMP DEBUG
+                f"[debug] GET {url} -> {response.status_code} "
+                f"sg-captcha={response.headers.get('sg-captcha')!r} "
+                f"server={response.headers.get('server')!r} "
+                f"len={len(response.content)}"
+            )
             response.raise_for_status()
         except requests.RequestException as exc:
             raise ClashfinderError(f"Unable to fetch {url}: {exc}") from exc
@@ -170,6 +176,7 @@ class ClashfinderClient:
         soup = BeautifulSoup(response.text, "html.parser")
 
         if not re.search(r"\bisLoggedIn:\s*true\b", response.text):
+            print(f"[debug] edit page snippet: {response.text[:300]!r}")  # TEMP DEBUG
             raise ClashfinderError(
                 "Clashfinder authentication failed. Check CLASHFINDER_COOKIE."
             )
@@ -193,6 +200,12 @@ class ClashfinderClient:
         action, controls = self.prepare_update(name, schedule_data, revision_note)
         try:
             response = self.session.post(action, data=controls, timeout=60)
+            print(  # TEMP DEBUG
+                f"[debug] POST {action} -> {response.status_code} "
+                f"sg-captcha={response.headers.get('sg-captcha')!r} "
+                f"len={len(response.content)}"
+            )
+            print(f"[debug] POST response snippet: {response.text[:300]!r}")  # TEMP DEBUG
             response.raise_for_status()
         except requests.RequestException as exc:
             raise ClashfinderError(f"Clashfinder rejected the update: {exc}") from exc
