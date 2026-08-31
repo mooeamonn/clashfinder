@@ -17,6 +17,8 @@ on:
     branches:
       - "main"
       - "gh-automation" ## For testing/development
+    paths-ignore:
+      - "festivals/alltogethernow/20*/clashfinder.txt"
 
 permissions:
     # Give the default GITHUB_TOKEN write permission to commit and push the
