@@ -67,12 +67,24 @@ jobs:
     - name: Install the project
       if: steps.clashfinder_data.outputs.changed == 'true'
       run: uv sync --locked --all-extras --dev
+    - name: Debug - probe clashfinder.com connectivity
+      if: steps.clashfinder_data.outputs.changed == 'true'
+      run: |
+        echo "Runner egress IP:"
+        curl -sS --max-time 10 https://ifconfig.me || echo "(ifconfig.me lookup failed)"
+        echo
+        echo "--- HEAD https://clashfinder.com/ ---"
+        curl -sS --max-time 15 -D - -o /dev/null -w "\nHTTP status: %{http_code}\nConnect time: %{time_connect}s\nTotal time: %{time_total}s\n" https://clashfinder.com/ || echo "(request failed/timed out)"
+        echo
+        echo "--- HEAD https://clashfinder.com/l/${CLASHFINDER_NAME}/?revs (unauthenticated) ---"
+        curl -sS --max-time 15 -D - -o /dev/null -w "\nHTTP status: %{http_code}\nTotal time: %{time_total}s\n" "https://clashfinder.com/l/${CLASHFINDER_NAME}/?revs" || echo "(request failed/timed out)"
     - name: Upload Clashfinder data
       if: steps.clashfinder_data.outputs.changed == 'true'
       env:
         CLASHFINDER_COOKIE_BASE64: ${{ secrets.CLASHFINDER_COOKIE_BASE64 }}
       run: |
         CLASHFINDER_COOKIE="$(printf '%s' "${CLASHFINDER_COOKIE_BASE64}" | base64 -d)"
+        echo "::add-mask::${CLASHFINDER_COOKIE}"
         export CLASHFINDER_COOKIE
         uv run ./bin/clashfinder.py \
           --name "${CLASHFINDER_NAME}" \
