@@ -1,0 +1,69 @@
+# This workflow fetches new All Together Now schedule data and commits changes back to the repo.
+
+name: All Together Now schedule updates
+
+env:
+  FESTIVAL_YEAR: 2027
+  FESTIVAL_YEAR_DEBUG: 2026 # TODO
+  FESTIVAL_DATA_PATH: festivals/alltogethernow
+
+on:
+  workflow_dispatch:
+  # This only runs on default branch
+  schedule:
+    - cron: "12 8 1-28 7 *"   # At minute 12 past 08:00 UTC, daily, from July 1 through 28.
+
+  push:
+    branches:
+      - "main"
+      - "gh-automation" ## For testing/development
+
+permissions:
+    # Give the default GITHUB_TOKEN write permission to commit and push the
+    # added or changed files to the repository.
+    contents: write
+
+jobs:
+  # GitHub's cron syntax has no year field, so gate every trigger here.
+  check_year:
+    runs-on: ubuntu-latest
+    outputs:
+      should_run: ${{ steps.year.outputs.should_run }}
+    steps:
+    - name: Check festival year
+      id: year
+      run: |
+        if [[ "$(date -u +%Y)" == "${FESTIVAL_YEAR_DEBUG}" ]]; then
+          echo "should_run=true" >> "${GITHUB_OUTPUT}"
+        else
+          echo "should_run=false" >> "${GITHUB_OUTPUT}"
+        fi
+
+  build:
+    needs: check_year
+    if: needs.check_year.outputs.should_run == 'true'
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Install uv
+      uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
+      with:
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
+    - name: Install the project
+      run: uv sync --locked --all-extras --dev
+    -  name: Write secrets to .env file
+       run: |
+        cat << EOF > "${FESTIVAL_DATA_PATH}/.env"
+        SESSION_KEY=${{ secrets.ALLTOGETHERNOW_SESSION_KEY }}
+        EOF
+    - name: Fetch and transform latest schedule data from API
+      run: |
+        pushd "${FESTIVAL_DATA_PATH}"
+        "./${FESTIVAL_YEAR_DEBUG}.sh"
+        popd
+    - uses: stefanzweifel/git-auto-commit-action@v7
+      id: auto_commit
+      with:
+        commit_message: Automated All Together Now festival data update
+        file_pattern: '*.json *.txt'

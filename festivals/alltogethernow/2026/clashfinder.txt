@@ -1,13 +1,3 @@
-// no performances found for artist id=2091321
-// no performances found for artist id=2091322
-// no performances found for artist id=2091323
-// no performances found for artist id=2091324
-// no performances found for artist id=2091325
-// no performances found for artist id=2091326
-// no performances found for artist id=2091327
-// no performances found for artist id=2091328
-// no performances found for artist id=2091329
-// no performances found for artist id=2091330
 // no performances found for artist id=2091331
 // no performances found for artist id=2091332
 // no performances found for artist id=2091333

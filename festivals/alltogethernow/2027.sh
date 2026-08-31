@@ -3,6 +3,8 @@
 # load session key
 # session key can be obtained by using PCAPdroid to capture network traffic from the AllTogetherNow app in a Android Studio emulated device and copying the value of the x-protect header from a request to the artists endpoint.
 # TODO: before this runs for real, recapture SESSION_KEY plus the user-agent build number, x-app-version, and x-os-version below against the 2027 app release — they're tied to the app build captured for 2026 and will be stale.
+#   https://clashfinder.com/s/atn2027/?edit
+#  it is currently private
 [[ ! -f .env ]] && echo "ERROR: env file with session key missing" && exit 1
 set -o allexport; source .env; set +o allexport
 
