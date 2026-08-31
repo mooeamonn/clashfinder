@@ -88,4 +88,5 @@ jobs:
         export CLASHFINDER_COOKIE
         uv run ./bin/clashfinder.py \
           --name "${CLASHFINDER_NAME}" \
-          --path "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR_DEBUG}/clashfinder.txt"
+          --path "${FESTIVAL_DATA_PATH}/${FESTIVAL_YEAR_DEBUG}/clashfinder.txt" \
+          --omit-revision-url

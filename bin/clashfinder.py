@@ -69,9 +69,12 @@ def get_git_revision(path):
     return full_sha, short_sha
 
 
-def build_revision_note(full_sha, short_sha, force=False, now=None):
-    commit_url = f"{REPOSITORY_URL}/commit/{full_sha}"
-    note = f"{REVISION_PREFIX} · {short_sha} · {commit_url}"
+def build_revision_note(full_sha, short_sha, force=False, now=None, include_url=True):
+    if include_url:
+        commit_url = f"{REPOSITORY_URL}/commit/{full_sha}"
+        note = f"{REVISION_PREFIX} · {short_sha} · {commit_url}"
+    else:
+        note = f"{REVISION_PREFIX} · {short_sha}"
     if force:
         timestamp = (now or datetime.now().astimezone()).isoformat(timespec="seconds")
         note = f"{note} · forced {timestamp}"
@@ -216,7 +219,12 @@ class ClashfinderClient:
 )
 @click.option("--dry-run", is_flag=True, help="Compare revisions without uploading.")
 @click.option("--force", is_flag=True, help="Upload even when the current revision matches.")
-def update(name, path, dry_run, force):
+@click.option(
+    "--omit-revision-url",
+    is_flag=True,
+    help="Exclude the GitHub commit link from the revision note (useful when uploading from a fork, where REPOSITORY_URL wouldn't point at the commit's actual repo).",
+)
+def update(name, path, dry_run, force, omit_revision_url):
     """Upload generated Clashfinder data when the Git revision changes."""
     load_dotenv()
     cookie = os.environ.get("CLASHFINDER_COOKIE")
@@ -229,7 +237,9 @@ def update(name, path, dry_run, force):
         schedule_data = path.read()
         validate_schedule_data(schedule_data)
         full_sha, short_sha = get_git_revision(path.name)
-        revision_note = build_revision_note(full_sha, short_sha, force=force)
+        revision_note = build_revision_note(
+            full_sha, short_sha, force=force, include_url=not omit_revision_url
+        )
 
         client = ClashfinderClient(cookie)
         click.echo(f"Checking Clashfinder revisions for {name}...")
